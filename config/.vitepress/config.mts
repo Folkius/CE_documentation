@@ -30,4 +30,5 @@ export default defineConfig({
     ]
   },
   appearance: 'force-dark',
+  base: '/CE_documentation/'
 })
