@@ -1,0 +1,43 @@
+diff --git a/node_modules/vitepress/dist/client/theme-default/components/VPNavBar.vue b/node_modules/vitepress/dist/client/theme-default/components/VPNavBar.vue
+index d1fbe36..8960226 100644
+--- a/node_modules/vitepress/dist/client/theme-default/components/VPNavBar.vue
++++ b/node_modules/vitepress/dist/client/theme-default/components/VPNavBar.vue
+@@ -172,16 +172,21 @@ watchPostEffect(() => {
+   .VPNavBar.has-sidebar .content {
+     position: relative;
+     z-index: 1;
+-    padding-right: 32px;
+     padding-left: var(--vp-sidebar-width);
+   }
++  .VPNavBar.has-sidebar .content-body {
++    padding-right: 32px;
++  }
+ }
+ 
+ @media (min-width: 1440px) {
+   .VPNavBar.has-sidebar .content {
+-    padding-right: calc((100vw - var(--vp-layout-max-width)) / 2 + 32px);
+     padding-left: calc((100vw - var(--vp-layout-max-width)) / 2 + var(--vp-sidebar-width));
+   }
++  
++  .VPNavBar.has-sidebar .content-body {
++    padding-right: calc((100vw - var(--vp-layout-max-width)) / 2 + 32px);
++  }
+ }
+ 
+ .content-body {
+diff --git a/node_modules/vitepress/dist/client/theme-default/components/VPSidebar.vue b/node_modules/vitepress/dist/client/theme-default/components/VPSidebar.vue
+index 35fa783..10ea85b 100644
+--- a/node_modules/vitepress/dist/client/theme-default/components/VPSidebar.vue
++++ b/node_modules/vitepress/dist/client/theme-default/components/VPSidebar.vue
+@@ -111,8 +111,8 @@ watch(
+ 
+ @media (min-width: 1440px) {
+   .VPSidebar {
+-    padding-left: max(32px, calc((100% - (var(--vp-layout-max-width) - 64px)) / 2));
+-    width: calc((100% - (var(--vp-layout-max-width) - 64px)) / 2 + var(--vp-sidebar-width) - 32px);
++    padding-left: max(32px, calc((100vw - (var(--vp-layout-max-width) - 64px)) / 2));
++    width: calc((100vw - (var(--vp-layout-max-width) - 64px)) / 2 + var(--vp-sidebar-width) - 32px);
+   }
+ }
+ 

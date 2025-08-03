@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "patch-package": "^8.0.0",
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.18"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev config",
+    "docs:build": "vitepress build config",
+    "docs:preview": "vitepress preview config",
+    "postinstall": "patch-package"
+  },
+  "dependencies": {
+    "patch-package": "^8.0.0",
+    "vue": "^3.5.18"
+  }
+}
