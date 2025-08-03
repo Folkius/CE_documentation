@@ -30,5 +30,4 @@ export default defineConfig({
     ]
   },
   appearance: 'force-dark',
-  base: '/repo'
 })
