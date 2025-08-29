@@ -1,3 +1,8 @@
+---
+prev:
+    text: Adding Games
+    link: /general/adding-games
+---
 # Staff
 
 The Challenge Enthusiasts staff is split between a few select roles that handle the necessary work to keep the server safe and ensure both community and site rules are followed.
@@ -65,7 +70,7 @@ Community representatives are divided by category. Their current functionality i
 - [Nashix](https://cedb.me/user/76a52463-7006-4256-82e3-169e15c610b2) (January 2023 - present)
 - [SomeMug](https://cedb.me/user/422108a7-731d-49da-ad8c-4c605b1bb181) (April 2023 - present)
 - [Sr.Douglas](https://cedb.me/user/ae791c2c-8946-495b-83a5-01fcc963f89e) (January 2023 - present)
-
+---
 - [Quasar](https://cedb.me/user/faa56e7e-4b24-4fd5-a75c-6ef79a4b5f1e) (January 2023 - February 2024)
 ### Arcade
 - [Uzzbuzz](https://cedb.me/user/9e83dc6b-9c6b-4949-9928-722636f749ab) (April 2023 - present) - Head rep
@@ -75,7 +80,7 @@ Community representatives are divided by category. Their current functionality i
 - [1Kick234](https://cedb.me/user/5d5518a1-fdee-426b-ae2d-6d9c22a8a941) (April 2023 - present)
 - [Kingconn](https://cedb.me/user/5053c1de-d3cf-4c5e-92e8-ec90607cde11) (April 2023 - present)
 - [Tater](https://cedb.me/user/795f5b9e-7fca-4d8c-8f55-66a968f81d9e) (April 2023 - present)
-
+---
 - ["Amir"](https://cedb.me/user/ca169142-cdd6-4ce5-9409-99408f8118d9) (January 2023 - April 2023)
 - [Vantier](https://cedb.me/user/150799a6-9f03-48e2-8724-25f69405ce27) (January 2023 - April 2023)
 
@@ -90,17 +95,19 @@ Community representatives are divided by category. Their current functionality i
 - [Tettrum](https://cedb.me/user/2ff757f3-6526-46fb-9e35-6eb2cd21cf38) (April 2023 - present)
 - [MrCooper](https://cedb.me/user/c9a67a56-2676-4874-ae81-7f991f414790) (April 2023 - present)
 - [Pig](https://cedb.me/user/c38b6dcc-ec69-45bc-b59c-68796a522f66) - support
-
+---
 - [SomeMug](https://cedb.me/user/422108a7-731d-49da-ad8c-4c605b1bb181) (January 2023 - April 2023)
 - [NEXGENEEZY](https://cedb.me/user/f7700746-721b-4a58-a700-c047a84d7bfd) (January 2023 - April 2023)
 - [Egzalt](https://cedb.me/user/930f5ef4-27dc-4d0c-9709-796f360d3dfd) (April 2023 - August 2023)
+
 ### Platformer
 - [Jarvis](https://cedb.me/user/df0a0319-c1be-4a22-9152-4267216832d1) (January 2023 - present?) - Head rep
 - [KC](https://cedb.me/user/fd35c68e-8b44-45a1-8679-d6dbe49623e5) (January 2023 - present)
 - [Kostucha](https://cedb.me/user/7c2c6d6b-ffc2-49c7-8c9c-26b8455eb26f) (April 2023 - present)
-
+---
 - [AthenaVenny](https://cedb.me/user/e790e8f0-f67e-4646-8fa9-de436b2c8d5e) (January 2023 - July 2024)
 - [Natalie](https://cedb.me/user/75875716-9a2e-44c1-bca4-0ba3aeb7f927) (April 2023 - October 2023)
+
 ### Strategy
 - [Legion](https://cedb.me/user/9b3ba1a6-e3b2-4966-a142-1ffa05002f97) (January 2023 - present) - Head rep
 - [Achrotone](https://cedb.me/user/ee70b232-754c-4501-9ce9-3dce6cd57c3a) (January 2023 - present) - *Also* head rep

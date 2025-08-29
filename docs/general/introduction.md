@@ -1,5 +1,9 @@
 ---
 outline: deep
+
+next:
+    text: Site Mechanics
+    link: /general/mechanics
 ---
 
 # Introduction

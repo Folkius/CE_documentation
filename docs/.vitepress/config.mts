@@ -18,21 +18,21 @@ export default defineConfig({
         text: 'Introduction',
         link: 'general/introduction'
       },
+      { text: 'Site Mechanics', link: '/general/mechanics' },
       {
         text: 'Details',
         items: [
-          { text: 'Site Mechanics', link: '/general/details/mechanics' },
-          { text: 'Game Additions', link: '/general/details/adding-games' }
+          { text: 'Objectives', link: '/general/details/objectives' },
+          { text: 'Game Additions', link: '/general/adding-games' }
         ]
       },
       {
-        text: 'About the Staff',
-        link: 'general/staff'
-      },
-      {
-        text: 'How to Interact with CE Assistant',
-        link: 'general/ce-assistant'
-      },
+        text: 'Others',
+        items: [
+        { text: 'About the Staff', link: 'general/staff' },
+      { text: 'How to Interact with CE Assistant', link: 'general/ce-assistant' },
+        ]
+      }
       //{
       //  text: 'Examples',
       //  items: [
