@@ -1,3 +1,11 @@
+#unnecesary for deploy, are built locally on every machine
 node_modules
-config/.vitepress/cache
-config/.vitepress/dist
+docs/.vitepress/cache
+docs/.vitepress/dist
+
+#were built along with starter template, I only keep them around to have a look at them
+docs/api-examples.md
+docs/markdown-examples.md
+
+#documentation only useful to the coder as reference while developing
+misc
