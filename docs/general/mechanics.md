@@ -1,5 +1,7 @@
 # Mechanics Overview
 
+[[toc]]
+
 ## Games
 -------
 Games are added to the website when they meet a certain threshold of difficulty. This threshold and the exact definition of "difficulty" are often debated and highly subjective. However there are some generally agreed upon facts. 

@@ -30,7 +30,7 @@ export default defineConfig({
         text: 'Others',
         items: [
         { text: 'About the Staff', link: 'general/staff' },
-      { text: 'How to Interact with CE Assistant', link: 'general/ce-assistant' },
+      { text: 'CE Bot Utilities', link: 'general/ce-bots' },
         ]
       }
       //{
@@ -55,5 +55,6 @@ export default defineConfig({
   },
   lastUpdated: true,
   appearance: 'force-dark',
-  base: '/CE_documentation/'
+  base: '/CE_documentation/',
+  head: [['link', { rel: 'icon', href: '/CE_documentation/favicon.ico' }]]
 });

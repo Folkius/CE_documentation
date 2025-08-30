@@ -7,12 +7,7 @@ prev:
 
 The Challenge Enthusiasts staff is split between a few select roles that handle the necessary work to keep the server safe and ensure both community and site rules are followed.
 
-- [Administrators](/general/staff#administrators)
-- [General Moderators](/general/staff#moderators)
-- [Site Moderators](/general/staff#site-moderators)
-- Community Moderators (currently empty)
-- [Community Representatives](/general/staff#community-representatives)
-- [Site Developers](/general/staff#site-developers)
+[[toc]]
 
 
 Dates represent the period in which the member had that role. If a member is listed in the "former" category, they may have either promoted, demoted or retired.
@@ -122,8 +117,8 @@ Community representatives are divided by category. Their current functionality i
 ## Community Developers
 Instead of a date, these members will have the project they worked on highlighted.
 
-- [Andy](https://cedb.me/user/d7cb0869-5ed9-465c-87bf-0fb95aaebbd5) - [CE Assistant](/general/ce-assistant)
-- [Link_Z](https://cedb.me/user/b25da9bc-760c-4cba-9869-a79f97c459c1) - [Automatic yearly recap](https://cesummary.vercel.app)
+- [Andy](https://cedb.me/user/d7cb0869-5ed9-465c-87bf-0fb95aaebbd5) - [CE Assistant](/general/ce-bots#ce-assistant)
+- [Link_Z](https://cedb.me/user/b25da9bc-760c-4cba-9869-a79f97c459c1) - [Automatic yearly recap](https://cesummary.vercel.app), [CE Quiz Bot](/general/ce-bots#ce-quiz-bot)
 - [Icondor](https://cedb.me/user/9a813b2a-27a8-4fb7-ac8c-805d14c0d47e) - [CE Tools](https://icondor15.github.io/CETools/CETools.html)
 - [Schmole](https://cedb.me/user/f79b9aa8-b7c1-43b9-95e3-c50c35120a22) - [Monthly CE spreadsheet](https://docs.google.com/spreadsheets/d/1oAUw5dZdqZa1FWqrBV9MQQTr8Eq8g33zwEb49vk3hrk/)
 
@@ -144,6 +139,6 @@ The dates here determine their full time of roleship. These members have no lead
 - [AthenaVenny](https://cedb.me/user/e790e8f0-f67e-4646-8fa9-de436b2c8d5e) (January 2023 - July 2024)
 
 
-## Token Administrator
+## Extra: Token Administrator
 Acted as a figure of speech to ensure a lone admin wouldn't have the capability of deleting the Discord server.
 - ["Mega"](https://cedb.me/user/92a65a6d-0aeb-4d6b-b333-f00e986b2fbf) (March 2023 - November 2023)

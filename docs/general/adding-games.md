@@ -1,5 +1,8 @@
 # Game additions
 -----------------------------------------------------------------
+[[toc]]
+
+## Overview
 
 We use a system of forum posts to add new games to our database or make changes to them. These suggestions are managed through our Discord server.
 

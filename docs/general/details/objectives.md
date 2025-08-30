@@ -4,6 +4,8 @@ This is a TEMPORARY placeholder for objective definitions.
 
 We follow the **DIRE**, which stands for "Developer Intended, Recognized, or Encouraged" as an overarching criteria for a point-valued objective.
 
+[[toc]]
+
 ## Primary Objectives
 Also known as POs.
 
@@ -55,7 +57,7 @@ Additionally, when something that would otherwise fit the criteria of a PO/SO (s
 ### "I still don't understand what SOs are? Why does it have to be so complicated?"
 This change has no negative aspects! If anything, it's a net positive.
 
-Back when we had either POs or COs, there were several hypotethical situations we met through the road that would thread a fine line between what could be one or the other. The result was potentially an arbitrary choice.
+Back when we had either POs or COs, there were several hypotethical situations we met through the road that would thread a fine line between what could be one or the other. The result was potentially a (more) arbitrary choice.
 Including SOs on the list means that not only these obtuse situations (coloquially called "tomatos" :tomato:) can be solved without much issue, but that we can actually have a much more solid definition for what we consider the main focus of a game -that is, the POs-.
 
 Look at it in another way: nothing has been demoted from what would have been a PO originally to a CO. If anything, there are a few stuff that originally were COs that can now be included as SOs.

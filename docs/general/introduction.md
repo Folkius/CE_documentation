@@ -8,6 +8,7 @@ next:
 
 # Introduction
 
+[[toc]]
 
 ## Edge-Cases, Exceptions, etc
 -----------------------------

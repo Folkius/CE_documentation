@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Challenge Enthusiasts Framework"
-  text: "The framework that Challenge Enthusiasts uses for its ruling."
+  name: "Challenge Enthusiasts Documentation"
+  text: "Categorizing the most chlalenging games on Steam and more."
   tagline: Join the community now!
   actions:
     - theme: brand
@@ -12,7 +12,7 @@ hero:
       link: /general/introduction
 
 features:
-  - icon: ❇️
+  - icon: ⬇️
     title: Join the Community
     details: Most of our interactions happen in our Discord server.
     link: 'https://discord.gg/challengeenthusiast'
