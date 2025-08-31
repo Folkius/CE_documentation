@@ -18,7 +18,7 @@ export default defineConfig({
         text: 'Introduction',
         link: 'general/introduction'
       },
-      { text: 'Site Mechanics', link: '/general/mechanics' },
+      { text: 'Site Mechanics Overview', link: '/general/mechanics' },
       {
         text: 'Details',
         items: [

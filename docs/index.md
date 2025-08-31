@@ -4,12 +4,14 @@ layout: home
 
 hero:
   name: "Challenge Enthusiasts Documentation"
-  text: "Categorizing the most chlalenging games on Steam and more."
-  tagline: Join the community now!
+  tagline: "Categorizing the most challenging games on Steam and more."
   actions:
     - theme: brand
       text: Start reading
       link: /general/introduction
+  image:
+    src: /the_hex_transparent.png
+    alt: VitePress
 
 features:
   - icon: ⬇️
@@ -21,4 +23,11 @@ features:
   #- title: Feature C
   #  details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  /*--vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);*/
 
+  --vp-home-hero-image-background-image: linear-gradient(0deg, #000001 100%); /*fake gradient until something else is discussed*/
+}
+</style>

@@ -63,8 +63,8 @@ Including SOs on the list means that not only these obtuse situations (coloquial
 Look at it in another way: nothing has been demoted from what would have been a PO originally to a CO. If anything, there are a few stuff that originally were COs that can now be included as SOs.
 
 ### "What counts as a completion?"
-Completing all Primary Objectives in a game.
+Only completing all Primary Objectives in a game is enough for a completion.
 
-If you complete all Secondary Objectives, you will be awarded their points and an "overcompletion" in the game leaderboard, but it doesn't show up anywhere other than your profile.
+If you complete all Secondary Objectives, you will be awarded their points and an "overcompletion" in the game leaderboard, but it doesn't show up anywhere else other than your game list.
 
 Completing all Community Objectives in a game does nothing.

@@ -2,6 +2,10 @@
 prev:
     text: Adding Games
     link: /general/adding-games
+
+next:
+    text: An introduction to our server bots
+    link: /general/ce-bots
 ---
 # Staff
 
@@ -118,7 +122,7 @@ Community representatives are divided by category. Their current functionality i
 Instead of a date, these members will have the project they worked on highlighted.
 
 - [Andy](https://cedb.me/user/d7cb0869-5ed9-465c-87bf-0fb95aaebbd5) - [CE Assistant](/general/ce-bots#ce-assistant)
-- [Link_Z](https://cedb.me/user/b25da9bc-760c-4cba-9869-a79f97c459c1) - [Automatic yearly recap](https://cesummary.vercel.app), [CE Quiz Bot](/general/ce-bots#ce-quiz-bot)
+- [Link_Z](https://cedb.me/user/b25da9bc-760c-4cba-9869-a79f97c459c1) - [CE Yearly Recap](https://cesummary.vercel.app), [CE Quiz Bot](/general/ce-bots#ce-quiz-bot)
 - [Icondor](https://cedb.me/user/9a813b2a-27a8-4fb7-ac8c-805d14c0d47e) - [CE Tools](https://icondor15.github.io/CETools/CETools.html)
 - [Schmole](https://cedb.me/user/f79b9aa8-b7c1-43b9-95e3-c50c35120a22) - [Monthly CE spreadsheet](https://docs.google.com/spreadsheets/d/1oAUw5dZdqZa1FWqrBV9MQQTr8Eq8g33zwEb49vk3hrk/)
 
