@@ -76,7 +76,7 @@ For co-op rolls, rollable with the ```/coop-roll``` command:
 
 You can roll everything named here, but note that some rolls have requirements before being available.
 
-Once you clear a casino roll, your name will appear in our casino showcase channel to show off, and you will earn *casino points* to compete in a server-wide leaderboard. You will also earn awards on the site.
+Once you clear a casino roll, your name will appear in our casino showcase channel ```#casino-log``` to show off, and you will earn *casino points* depending on the roll cleared to compete in a server-wide leaderboard. You will also earn awards on the site.
 
 ::: tip
 By using the ```/check-rolls``` command, you will get a link to a website where you can access your current, completed and failed rolls.

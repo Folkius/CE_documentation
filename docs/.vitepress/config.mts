@@ -15,15 +15,17 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Introduction',
-        link: 'general/introduction'
+        text: 'Index',
+        link: 'general/index'
       },
       { text: 'Site Mechanics Overview', link: '/general/mechanics' },
       {
         text: 'Details',
         items: [
+          { text: 'Points', link: '/general/details/points' },
           { text: 'Objectives', link: '/general/details/objectives' },
-          { text: 'Game Additions', link: '/general/adding-games' }
+          { text: 'Game Additions', link: '/general/details/adding-games' },
+          { text: 'Edge-Cases and Exceptions', link: '/general/details/edgecases-and-exceptions' }
         ]
       },
       {
@@ -50,6 +52,10 @@ export default defineConfig({
       {
         icon: "github",
         link: "https://github.com/Folkius/CE_documentation"
+      },
+      {
+        icon: "steam",
+        link: "https://store.steampowered.com/curator/36185934/"
       }
     ]
   },

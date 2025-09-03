@@ -1,7 +1,7 @@
 ---
 prev:
-    text: Adding Games
-    link: /general/adding-games
+    text: Edge-Cases and Exceptions
+    link: /general/details/edgecases-and-exceptions
 
 next:
     text: An introduction to our server bots

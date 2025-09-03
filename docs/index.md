@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Start reading
-      link: /general/introduction
+      link: /general/index
   image:
     src: /the_hex_transparent.png
     alt: VitePress
@@ -18,8 +18,9 @@ features:
     title: Join the Community
     details: Most of our interactions happen in our Discord server.
     link: 'https://discord.gg/challengeenthusiast'
-  #- title: Feature B
-  #  details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🗒️
+    title: Submit proof
+    link: /general/#how-do-i-submit-proof
   #- title: Feature C
   #  details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
