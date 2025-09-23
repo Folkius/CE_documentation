@@ -142,7 +142,6 @@ The dates here determine their full time of roleship. These members have no lead
 - [AthenaVenny](https://cedb.me/user/e790e8f0-f67e-4646-8fa9-de436b2c8d5e) (January 2023 - July 2024)
 - [Vantier](https://cedb.me/user/150799a6-9f03-48e2-8724-25f69405ce27) (April 2022 - August 2025)
 - [Pig](https://cedb.me/user/c38b6dcc-ec69-45bc-b59c-68796a522f66) (August 2022 - September 2025)
-- [Scarlet](https://cedb.me/user/36cb85be-ab7b-4293-b7ac-c2920297eaa2) (June 2023 - September 2025)
 
 
 ## Extra: Token Administrator
