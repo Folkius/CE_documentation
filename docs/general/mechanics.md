@@ -101,7 +101,7 @@ EX: Slay the Spire, FTL: Faster Than Light, Peggle Deluxe
 
 ## Tiers
 -----
-In addition to category, games are also assigned a tier when added to the site. Tiers are simply brackets of difficulty/point values.
+In addition to category, games are also assigned a tier when added to the site. This is determined by the total point value of the game. Therefore, tiers are simply brackets of difficulty/point values.
 
 ### Tier 1 
 ![Tier 1](/tiers/tier1.png){width=32px height=32px} 5-15 points -- These games would be considered challenging to most players new to the genre. Genre experts would find them to be a light challenge in most cases. Games in this range typically take less than 10 hours.
@@ -119,9 +119,14 @@ In addition to category, games are also assigned a tier when added to the site. 
 ![Tier 5](/tiers/tier5.png){width=32px height=32px} 200-395 points -- Near the apex of challenging games. Players new to the genre will interpret these games to be nearly impossible without insane amounts of dedication and time. Genre experts will find them to be brutal and not worth the time investment or effort in some cases. An average completion time below 100 hours for a T5 game should be exceedingly rare without extenuating circumstances.
 
 ### Tier 6
-![Tier 6](/tiers/tier6.png){width=32px height=32px} 400-795 points -- ...?
+![Tier 6](/tiers/tier6.png){width=32px height=32px} 400-795 points -- Extremely hard games. Without extreme dedication, you may not be able to conquer them at all. Games in this category can start taking from 200 hours onwards to clear.
 
 ### Tier 7 
-![Tier 7](/tiers/tier7.png){width=32px height=32px} 800+ points -- Being above and beyond the apex, these games will demand and monopolize your life for an extended period of time. If you beat one of them, you will surely come out of it being a different person...?
+![Tier 7](/tiers/tier7.png){width=32px height=32px} 800+ points -- Being above and beyond the apex, these games will demand and monopolize your life for an extended period of time. They tend to take more than 700 hours on average. If you beat one of them, you will surely come out of it being a different person...?
 
-(The hours listed are not rules, they are general guidelines and averages)
+## Meaning of hours
+
+The hours listed above are not rules but rather general guidelines and averages. In particular, Tier 6 and Tier 7 games have a scalar penalty applied to them where the amount of points that can be earned slowly decreases the higher an amount of hours is required. This is to balance them with games in a lower tier.
+
+Hours in this sense are defined as *the amount of time spent specifically working towards the challenging aspects of the game*; the elements associated with casual playthroughs, idling, grinds, or other non-challenge related content are only partially considered, depending on how they expose you to the core mechanics and/or commiting the game to memory. The average times are also typically only considered for group members, or those who engage with challenging content often. 
+

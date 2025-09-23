@@ -2,7 +2,7 @@
 
 This is a TEMPORARY placeholder for objective definitions.
 
-Objectives usually consist in one or several challenges grouped together. Completing its requirements will award you the objective if you both can prove it and own the game.
+Objectives usually consist in one or several challenges grouped together under a game. Completing its requirements will award you the objective if you both can prove it and own the game.
 
 We follow the **DIRE**, which stands for "Developer Intended, Recognized, or Encouraged" as an overarching criteria for a point-valued objective.
 
@@ -19,6 +19,10 @@ Examples include:
 - Assigned unambiguous thresholds of competency (grades, medals, ranks, badges). May be paired with difficulties and modes. For example, two modes, - Campaign and Boss Rush, both have Normal and Hard difficulties, the player is awarded a grade based on performance from D-A, A ranks would be PO in both modes on Hard. These do not need to be permanent.
 - Readily accessed physical content that is not deeply hidden or obscure. Bonus levels.
 - Tracked collectibles (the collectibles must be permanent, a mode that terminates itself under criteria other than intentional manual deletion are exempt).
+
+### Difficulty order
+Objectives in games tend to be ordered top-to-bottom, with the intended progression meant to be starting from the bottom and climbing up.
+In some rare cases, objectives may be grouped according to modes, but the objectives inside these modes will be sorted as previously described.
 
 ## Secondary Objectives :new:
 Also known as SOs. *Currently labeled with *(S)* at the end of the objective's name.*
