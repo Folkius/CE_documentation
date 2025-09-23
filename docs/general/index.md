@@ -58,6 +58,6 @@ Please note that objectives are not translated and there is no plan to implement
 ## Everything Else
 ----------------
 
-- Game Keys - List of keys we have available to hand out as rewards for events and other stuff
+- Game Keys - List of keys we have available to hand out as rewards for events and other stuff.
 https://docs.google.com/spreadsheets/d/1dGF4czfBVvhKAsrJr1W8exsZK0NOUbwn2okNIF86TA4
  

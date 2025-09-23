@@ -31,13 +31,10 @@ Dates represent the period in which the member had that role. If a member is lis
 - [lauriys](https://cedb.me/user/b760c114-ab77-46b3-be8b-cbda5aa8b3f9) (2020 - present)
 - [Achrotone](https://cedb.me/user/ee70b232-754c-4501-9ce9-3dce6cd57c3a) (August 2022 - present)
 - [Flop](https://cedb.me/user/ee6ab7f7-23df-41d6-a639-6d07e64e9706) (August 2022 - present)
-- [Pig](https://cedb.me/user/c38b6dcc-ec69-45bc-b59c-68796a522f66) (August 2022 - present)
 - [Zelda](https://cedb.me/user/16e75bae-270a-48f0-abe9-5de4c81d3784) (May 2023 - present)
 - [Uzzbuzz](https://cedb.me/user/9e83dc6b-9c6b-4949-9928-722636f749ab) (May 2023 - present)
-- [Scarlet](https://cedb.me/user/36cb85be-ab7b-4293-b7ac-c2920297eaa2) (June 2023 - present)
 - [Kingconn](https://cedb.me/user/5053c1de-d3cf-4c5e-92e8-ec90607cde11) (February 2024 - present)
 - [Legion](https://cedb.me/user/9b3ba1a6-e3b2-4966-a142-1ffa05002f97) (February 2024 - present)
-- [Newfi Cheese](https://cedb.me/user/3fde2397-586f-4c76-957c-fff27664da40) (February 2024 - present)
 - [SakumaDrops](https://cedb.me/user/a2032443-ba6a-416a-8ee3-47e8ab918ff8) (February 2024 - present)
 - [Sartoonel](https://cedb.me/user/42376e0e-5ff2-4fb1-bd86-26be52856570) (May 2024 - present)
 ### Former moderators
@@ -56,11 +53,13 @@ Dates represent the period in which the member had that role. If a member is lis
 - [Sr.Douglas](https://cedb.me/user/ae791c2c-8946-495b-83a5-01fcc963f89e) (May 2023 - March 2024)
 - [Schmole](https://cedb.me/user/f79b9aa8-b7c1-43b9-95e3-c50c35120a22) (July 2024 - August 2025)
 - [Vantier](https://cedb.me/user/150799a6-9f03-48e2-8724-25f69405ce27) (April 2022 - August 2025)
-
+- [Newfi Cheese](https://cedb.me/user/3fde2397-586f-4c76-957c-fff27664da40) (February 2024 - September 2025)
+- [Pig](https://cedb.me/user/c38b6dcc-ec69-45bc-b59c-68796a522f66) (August 2022 - September 2025)
+- [Scarlet](https://cedb.me/user/36cb85be-ab7b-4293-b7ac-c2920297eaa2) (June 2023 - September 2025)
 
 
 ## Site Moderators
-- [Vantier](https://cedb.me/user/150799a6-9f03-48e2-8724-25f69405ce27) (August 2025 - present)
+None at the moment.
 
 ## Community Representatives
 Community representatives are divided by category. Their current functionality is helping shape recommendation threads of their category and act as ambassadors of it.
@@ -93,11 +92,11 @@ Community representatives are divided by category. Their current functionality i
 - [Miyu](https://cedb.me/user/99fe2f50-05ce-4ba1-8865-8399d84fed24) (January 2023 - present)
 - [Tettrum](https://cedb.me/user/2ff757f3-6526-46fb-9e35-6eb2cd21cf38) (April 2023 - present)
 - [MrCooper](https://cedb.me/user/c9a67a56-2676-4874-ae81-7f991f414790) (April 2023 - present)
-- [Pig](https://cedb.me/user/c38b6dcc-ec69-45bc-b59c-68796a522f66) - support
 ---
 - [SomeMug](https://cedb.me/user/422108a7-731d-49da-ad8c-4c605b1bb181) (January 2023 - April 2023)
 - [NEXGENEEZY](https://cedb.me/user/f7700746-721b-4a58-a700-c047a84d7bfd) (January 2023 - April 2023)
 - [Egzalt](https://cedb.me/user/930f5ef4-27dc-4d0c-9709-796f360d3dfd) (April 2023 - August 2023)
+- [Pig](https://cedb.me/user/c38b6dcc-ec69-45bc-b59c-68796a522f66) - former support
 
 ### Platformer
 - [Jarvis](https://cedb.me/user/df0a0319-c1be-4a22-9152-4267216832d1) (January 2023 - present?) - Head rep
@@ -141,6 +140,9 @@ The dates here determine their full time of roleship. These members have no lead
 - [Wantarou](https://cedb.me/user/eebbf608-18b4-4f40-9bbb-1c49b9c64fe0) (July 2022 - November 2023)
 - [Quasar](https://cedb.me/user/faa56e7e-4b24-4fd5-a75c-6ef79a4b5f1e) (January 2023 - February 2024)
 - [AthenaVenny](https://cedb.me/user/e790e8f0-f67e-4646-8fa9-de436b2c8d5e) (January 2023 - July 2024)
+- [Vantier](https://cedb.me/user/150799a6-9f03-48e2-8724-25f69405ce27) (April 2022 - August 2025)
+- [Pig](https://cedb.me/user/c38b6dcc-ec69-45bc-b59c-68796a522f66) (August 2022 - September 2025)
+- [Scarlet](https://cedb.me/user/36cb85be-ab7b-4293-b7ac-c2920297eaa2) (June 2023 - September 2025)
 
 
 ## Extra: Token Administrator
