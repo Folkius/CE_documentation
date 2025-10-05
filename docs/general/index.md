@@ -8,9 +8,11 @@ next:
 
 # Introduction
 
-Welcome! We're a group centered around challenges within video games in Steam and retro consoles.
+Welcome! We're a group that focuses on identifying and completing challenging content within video games, primarily from Steam and retro consoles.
 
-Think of it like achievement hunting, but more refined, and with a slightly broader scope. Complete challenges, earn points, gain ranks/roles, participate in events, find and share new games.
+Whilst there are some parallels with achievement hunting, the scope of challenging content in a game may only be a subset of a game's achievements, or may not be captured by achievements at all.
+
+Complete challenges, earn points, gain ranks/roles, participate in events, find and share new games.
 
 These documents serve as an explanation of our rules and our logic to determine what is added or not.
 
@@ -37,10 +39,18 @@ There's no method of adding proof via the site as of present. You're required to
 ## Using the Website
 
 ### Updating Games
-Once you are logged into the website, at any time you can click "update" in the top right menu. This will "re-sync" your account and scan your Steam profile for new achievements and games. If you want "family shared" games to appear in your game list they need to be in your "recently played" list on Steam (played in the last 2 weeks), which means you just need to relaunch the games you want added, close them, and then click update on the website again. 
+Once you are logged into the website, at any time you can click "update" in the top right menu. This will "re-sync" your account and scan your Steam and RetroAchievements profiles for new achievements and games.
+
+If you want "family shared" Steam games to appear in your game list they need to be in your "recently played" list on Steam (played in the last 2 weeks), which means you will need to relaunch in Steam the games you want added to your CE profile, and then click "update" on the website again. 
 
 ### Submitting proof 
-For objectives that have no associated achievements or ask for video/screenshot proof, that can be done in ⁠```proof-submission```. Just post the name of the game, the objective, and a link to your profile. A mod will add the objective to your profile once they get a chance, and if everything is okay they will "react" to your proof-message to signal that it has been done.
+For objectives that have no associated achievements, or which ask for video/screenshot proof, submitting the relevant proof can be done in ⁠```proof-submission```.
+Post the name of the game, the objective, a link to your CE profile, and the required proof.
+
+A mod will add the objective to your profile once they get a chance, and if everything is okay they will "react" to your proof-message to signal that it has been done.
+
+An example of a proof submission is outlined below:
+<< TO BE ADDED >>
 
 ::: tip 
 Before submitting proof, make sure you update your profile on the website and that the game in question is showing in your game list. If it isn't on your game list, we can't add the objective for you. Try relaunching the game and reupdating as a troubleshooting method before messaging a mod for assistance.
