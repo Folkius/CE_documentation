@@ -42,9 +42,7 @@ Usually the category a game will go on is intuitive enough. But sometimes it doe
 
 In these scenarios, while it doesn't cover all possible bases, we can follow a flowchart that attempts to justify category placement in a concise manner.
 
-![Category decision flowchart](/categories/flowchart.png)
-
-(it's small :( )
+![Category decision flowchart](/categories/category_diagram.png)
 
 ### Is there any reason for this specific category organization?
 

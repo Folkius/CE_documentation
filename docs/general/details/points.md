@@ -16,6 +16,26 @@ Points aren't necessarily a full reflection of the objectives' normal effort - m
 
 Every game has up to 15 points that can be used in the context of "T1 Leniency" even if the game itself isn't a T1.
 
+## Evaluating points
+The values on the site, and especially in the case of high-tier clears, are not necessarily supposed to represent a 'correct value'. They are intended to represent an averaged value amongst the clearers at the time, relative to the effort *they* put in, not how hard the game would be to non-clearers.
+
+Where a game is only cleared by a single person, the point value will reflect *their* experience with the game. To the extent this person's experience differs materially to subsequent clearers (e.g. due to the presence of new strategies), there might be a large shift in points.
+
+### A hypothetical example:
+A game's first clearer spends 100 hours on a single YOLO run, inclusive of finding new strategies, practice, and attempts. It is evaluated at 300 points.
+
+Two more players clear the game, with one of them taking 50 hours, and one of them taking 200 hours. Not enough information on the distribution of clearers' efforts has been achieved, so the value is held at 300.
+
+Five more players clear the game, with each of them taking approximately 50 hours to achieve the same feat. With this information, we infer that the 200 hour clear was an outlier (of CE clears), and the 100 hour clear a longer-than-average clear (possibly impacted by being the first to find strategies etc).
+
+The game is re-valued at 150 points, or half of the original valuation.
+
+::: info NOTE
+This hypothetical example is not intended to directly correlate to how the value of games are evaluated, and is for illustration only.
+
+There will inevitably be a level of nuance and judgement required in valuing games, particularly at higher values. This will vary based on the nature of the challenge.
+:::
+
 ## CR Rating 
 This is a leaderboard-specific weighted point system. The formula for CR works as follows: 
 
