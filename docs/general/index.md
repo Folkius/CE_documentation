@@ -50,7 +50,7 @@ Post the name of the game, the objective, a link to your CE profile, and the req
 A mod will add the objective to your profile once they get a chance, and if everything is okay they will "react" to your proof-message to signal that it has been done.
 
 An example of a proof submission is outlined below:
-<< TO BE ADDED >>
+![Proof submission example](/pages/proof_submission_example.png)
 
 ::: tip 
 Before submitting proof, make sure you update your profile on the website and that the game in question is showing in your game list. If it isn't on your game list, we can't add the objective for you. Try relaunching the game and reupdating as a troubleshooting method before messaging a mod for assistance.
@@ -62,6 +62,20 @@ The site overlay supports multiple languages thanks to our community effort.
 Please note that objectives are not translated and there is no plan to implement translations on them. When in doubt, ask a community member.
 
 ### Linking your profile with RetroAchievements
+To add a [RetroAchievements (RA)] (https://retroachievements.org/) profile to your CE profile, browse to "Settings" in your profile dropdown (top-right of the CE website).
+
+There is a field where you can enter the your RA account's username; once entered, click the "Verify" button.
+
+A verification popup message will appear, requesting you enter a specific string of characters to your RA profile's 'motto'.
+![RA verification Part One](/pages/RA_verification.png)
+
+A link to the RA user settings page is available here: [RA Settings] (https://retroachievements.org/settings))
+Once the string of characters has been entered in the Motto field, click "Update" on the RA Settings page.
+![RA verification Part Two](/pages/RA_verification2.png)
+
+After this update has been made to your RA userpage, click 'Verify' on the account verification popup on the CE website.
+
+You are free to remove/revert/change your motto once this step has been completed.
 
 
 
