@@ -14,6 +14,10 @@ hero:
     alt: VitePress
 
 features:
+  - icon: 🎮
+    title: Challenge yourself
+    details: Enter the Challenge Enthusiasts' main website.
+    link: 'https://cedb.me'
   - icon: ⬇️
     title: Join the Community
     details: Most of our interactions happen in our Discord server.
