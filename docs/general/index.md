@@ -69,7 +69,7 @@ There is a field where you can enter the your RA account's username; once entere
 A verification popup message will appear, requesting you enter a specific string of characters to your RA profile's 'motto'.
 ![RA verification Part One](/pages/RA_verification.png)
 
-A link to the RA user settings page is available here: [RA Settings](https://retroachievements.org/settings).
+A link to the RA user settings page is available here: [RA Settings](https://retroachievements.org/settings))
 
 Once the string of characters has been entered in the Motto field, click "Update" on the RA Settings page.
 ![RA verification Part Two](/pages/RA_verification2.png)
