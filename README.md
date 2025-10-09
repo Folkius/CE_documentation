@@ -4,6 +4,10 @@ This is the source code of the site that hosts Challenge Enthusiasts' documentat
 
 Built with [VitePress](https://vitepress.dev/).
 
+## WORK IN PROGRESS
+
+This repository (or rather, the wiki text within) is still a work in progress. Expect a bit of contradictions or redundancy while we write up all relevant topics.
+
 ## Run locally
 
 Node.js is required.
