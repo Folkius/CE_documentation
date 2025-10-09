@@ -12,6 +12,8 @@ Points in objectives use a linear ladder in steps of 5. The higher an objective 
 Points aren't necessarily a full reflection of the objectives' normal effort - multiple circumstances are taken into account, such as variety of challenges, multiplier penalty applied for T6s and T7s, intensity, amount of objectives done beforehand, content/filler, etc.
 :::
 
+
+
 ### Point quirks
 
 Every game has up to 15 points that can be used in the context of "T1 Leniency" even if the game itself isn't a T1.
@@ -58,7 +60,7 @@ These numbers were taken from a really long analysis undertaken on all games cle
 Most games fell within a range, and were more confidently within a tighter range based on challenge type.
 
 
-## CR Rating 
+## CE Rating (CR)
 This is a leaderboard-specific weighted point system. The formula for CR works as follows: 
 
 ```Σ(0, n): (0.9^n)(m)``` 
