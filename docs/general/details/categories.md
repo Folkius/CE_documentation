@@ -2,15 +2,15 @@
 -----------
 Categories are meant to house games of loosely similar style and genre, of which there are currently 6.
 
-## Arcade 
-Games with a focus on reflex or score attack, though also includes everything else that isn't covered by the other categories. Some genres that are common to this category include reflex-checks, rhythm, sports, racing, awkward control simulators, and other miscellaneous sub-genres. You can also consider this category to be “Other”.
-
-EX: Super Hexagon, OlliOlli, Surgeon Simulator
-
 ## Action
 Heavily focuses on a sophisticated combat system, or frequent engagement with enemies and bosses. These might include traditional 2-d fighting games, brawlers, beat’em’ups, souls-like, boss-rush, rogue-likes, and other combat heavy games.
  
 EX: Dark Souls, Hades, Cuphead
+
+## Arcade 
+Games with a focus on reflex or score attack, though also includes everything else that isn't covered by the other categories. Some genres that are common to this category include reflex-checks, rhythm, sports, racing, awkward control simulators, and other miscellaneous sub-genres. You can also consider this category to be “Other”.
+
+EX: Super Hexagon, OlliOlli, Surgeon Simulator
 
 ## Bullet Hell 
 Games where avoidance of large amounts of projectiles or moving hazards is the most relevant aspect of the game. This includes traditional arcade shoot ’em ups, 2-d avoidance games, and some twin-stick games, among others.

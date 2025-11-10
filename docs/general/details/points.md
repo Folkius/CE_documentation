@@ -1,6 +1,6 @@
 # Points
 
-Points are the main metric used in the site. They are represented by a gray star :star:. They are used for categorizing games into tiers, grouping users into ranks
+Points are the main metric used in the site. They are represented by a gray star :star:. They are used for categorizing games into tiers, grouping users into ranks. They are also used as the default leaderboard ordering scheme.
 
 Points can only be earned from obtaining primary or secondary objectives in games.
 
@@ -61,10 +61,20 @@ Most games fell within a range, and were more confidently within a tighter range
 
 
 ## CE Rating (CR)
-This is a leaderboard-specific weighted point system. The formula for CR works as follows: 
+This is a leaderboard-specific weighted point system, prioritizing the quality of the clear over the quantity of clears. 
+
+The formula for CR works as follows: 
 
 ```Σ(0, n): (0.9^n)(m)``` 
 
 where **n** is the ordering of your games by value (your highest game is considered the 0th highest, and no penalty is applied), and **m** is the value of the game. 
 
-CR is calculated separately for each category. Your first person games do not affect the calculation for platformers, for example. Your overall CR is the combined total of the CR for all 6 categories. The maximum amount a game can contribute to CR is 1000, any game worth more than 1000 points will be assumed to be worth 1000 points for the rating.
+::: info Example
+ Assuming you have cleared The End is Nigh, Super Meat Boy, and obtained all achievements in Never Give Up except for the permadeath run, your games would be ordered as 350, 80, 30. The formula would then apply in the following manner: 
+ 
+ (0.9^0)(350) + (0.9^1)(80) + (0.9^2)(30) = 350 + 72 + 24.3 = **456.3 CR**
+
+(these values may not be up to date over time, but the logic remains)
+ :::
+
+CR is calculated separately for each category. Your first person games do not affect the calculation for platformers, for example. Your overall CR is the combined total of the CR for all 6 categories. The maximum amount a game can contribute to CR is 1000, and any game worth more than 1000 points will be assumed to be worth 1000 points for the rating.

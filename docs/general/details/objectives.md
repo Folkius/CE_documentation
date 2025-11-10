@@ -56,6 +56,8 @@ No real rules for how they are structured, as long as they can be described clea
 
 Additionally, when something that would otherwise fit the criteria of a PO/SO (such as an achievement), but it ends up being redundant, grindy, dynamic in difficulty, or player vs player related (rarely), it may be relegated to CO.
 
+Optionally, they can also be created as checkpoints for a particularly hard objective, allowing to set milestones to practice on without going into intense segmentation between primary objectives.
+
 ## FAQ
 
 ### "What does uncleared mean? What are uncleared objectives?"
