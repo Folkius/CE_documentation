@@ -27,7 +27,8 @@ export default defineConfig({
           { text: 'Categories', link: '/general/details/categories' },
           { text: 'Objectives', link: '/general/details/objectives' },
           { text: 'Game Additions', link: '/general/details/adding-games' },
-          { text: 'Edge-Cases and Exceptions', link: '/general/details/edgecases-and-exceptions' }
+          { text: 'Edge-Cases and Exceptions', link: '/general/details/edgecases-and-exceptions' },
+		  { text: '[TBD] Site Titles', link: '/general/details/site-titles' }
         ]
       },
       {
