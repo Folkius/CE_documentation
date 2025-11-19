@@ -100,6 +100,31 @@ There are various reasons to call for a site removal:
 
 You must have played through the game enough for your removal to be valid for analysis, otherwise it will be ignored.
 
+### Process for game removal
+
+If a user feels strongly that a game listed on the site does not meet the difficulty threshold to be included on the site, the process to instigate a review is as follows.
+
+Open a thread in ⁠```#recommendations``` titled ```Removal: [GAME NAME]```, and link the CE game page in the initial post along with tagging the ```@Rep``` role. (TBD)
+
+Include pertinent details as to why the game did not feel sufficiently difficult. In all cases, please provide an indication of play time, and then further commentary. For example:
+- "The PO(s) took me 10h - the time spent was high, but there was effectively no difficulty"
+- "Suggesting removal for quality reasons - the PO is only possible with a registry edit" [or other reasoning]
+- "The game only took me an hour, and whilst there some level of challenge, it wasn't enough to be on the site imo"
+- "The PO(s) took me 2h - An update was made to the game that rebalanced the game, making it too easy"
+
+From there, the Rep(s) will seek further feedback, according to this general guidance:
+- If there a low number of clearers, all clearers to be pinged and asked for input (hours, perspective on the level of challenge, etc)
+- If there a high number of clearers, active users may be pinged for input initially. If there a general consensus, no further pings to be required.
+
+The number of clearers to ping will be at the discretion of the Rep handling the matter, but shouldn't be less than 10-20% of the total number.
+ 
+The next step will require a level of judgement, but may take one of several forms:
+- Game removal/maintenance if there broad consensus on that outcome
+- Seeking further input from clearers not pinged initially, if there a sufficient user base
+- Application of the "Site Eligibility Under Dispute" information tag the game should there be limited available input, or conflicting viewpoints
+  - The thread will remain open, and further input from new clearers will be required.
+  - The number of new clearers' input should be informed by the user base (eg: a game with 3 clearers may only need 1 additional user's input, whilst a game with 50 might require 3)
+
 
 
 ## Objective rules
