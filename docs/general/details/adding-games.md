@@ -60,7 +60,9 @@ Regardless of difficulty, we don't allow these games:
 - Delisted games (exceptions made if keys are easily available);
 - Games with terrible performance (frequent crashes for everyone);
 - Direct duplicates (unless replacing delisted games);
-- Game existing outside of the paradigm of what's accepted by the categories (puzzles, PvP games, idlers, etc.)
+- Games existing outside of the paradigm of what's accepted by the categories (puzzles, PvP games, idlers, etc.);
+- Games where the challenge can be hidden between thousands of hours of casual gameplay.
+- Games that don't meet our quality guidelines.
 
 Games on Early Access are subject to some scrutiny. It'd be better if **their core gameplay loop is finished or abandoned**, otherwise they may be left on hold.
 
@@ -125,8 +127,36 @@ The next step will require a level of judgement, but may take one of several for
   - The thread will remain open, and further input from new clearers will be required.
   - The number of new clearers' input should be informed by the user base (eg: a game with 3 clearers may only need 1 additional user's input, whilst a game with 50 might require 3)
 
-
-
 ## Objective rules
 
 Tier and Objective guidelines can be found in previous sections of this guide.
+
+## Quality Guidelines
+
+The primary purpose of CE is to catalogue game challenges, and historically the system has been mostly agnostic to the quality of those games. The reason for this is that quality is a completely subjective metric that will differ between each person. What one person considers to be poorly made, another person might find charm in. Because of this, there hasn't been any kind of guidelines for what constitutes "bad enough" to be excluded from the system. 
+
+This post will outline some basic concepts to keep in mind when flagging a game OR objective for removal or not adding to the site based on quality.
+
+In general, there are three similar, but slightly distinct concepts:
+
+### Poorly Coded 
+- The game suffers from frequent crashes that inhibit the player from completing the challenge, and the crashes are spontaneous and unavoidable. This needs to be independent of hardware limitations, and the crashes should be observable by two or more people.,
+- The game suffers from various bugs that interfere with normal gameplay. Examples of this might include: frequently getting stuck in walls, falling through the floor, losing control of your character, mechanics not working properly or as intended often enough to be problematic, etc. If a bug occurs a handful of times, that may not be cause for concern, but if it rises to a level where it frequently interrupts a person's ability to play the game or complete a challenge, it may warrant removing the game.,
+
+### Poorly Designed 
+- The game has a myriad of exploits that result in the challenge being made trivial. This is indicative of lack of testing, and if the exploits are numerous enough, then the game was just not designed well. Exploits exist in many games, and the existence of a couple will not be an issue normally, we can just work around them for verification. However, if exploits are required or strongly recommended in being able to complete the challenge, or the game has so many that figuring out which to allow and which not to becomes a topic of discussion, the game is probably too complicated to be worthwhile. Quit to menu is a common enough oversight that it is not considered an exploit worth removing a game over, nor would save scumming.,
+- The game has a challenge that is an obvious meme or was designed specifically to not be possible, or extremely unreasonable. An example of this might include a game where it is otherwise well made, but has a challenge to hit the same frame perfect jump every 10 seconds for an hour straight. In this case, if the game has other reasonable challenges, the one challenge in question may be excluded or made into a CO, and the rest of the challenges can be preserved.,
+
+### Low Effort
+- The game is an obvious asset flip with barely any development put into it. The assets may be stock, the physics are poorly made or clunky, and the developer or series is well known for consistently pushing out similar quality games.,
+- The game is identical to an already existing more popular game without adding in any kind of novelty. Getting Over It spawned a lot of clones, but in many cases, there are enough differences that they can be considered to have added enough novelty to be worthwhile. This will obviously be subject to context.,
+- The game has little to no redeemable gameplay qualities. While this one is highly subjective, there are likely to be cases every so often where the game is just extremely bad all around despite being novel and coded properly. Let this point be reserved for admins and unanimous rep decision. A game simply not being fun is not nearly a justifiable enough reason for removing from the site.,
+
+### What to do
+While the above are guidelines, the decision to remove or block a game OR objective from the site will still come down to a consensus among the reps for the category in which the game belongs. Judgment will still be necessary on a case by case basis. A game may also suffer from one or more of the above issues, and still be allowed on the site, again being a decision made by the reps or admins.
+
+To initiate the process of removal:
+- Make a thread pointing out the issues, and list which of the above categories it would fall under;
+- Then either an admin or the reps (by majority) can decide on it;
+- If an admin disagrees on the decision of the reps, or vice versa, the decision can be blocked.
+

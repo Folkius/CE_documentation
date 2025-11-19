@@ -37,6 +37,10 @@ Dates represent the period in which the member had that role. If a member is lis
 - [Legion](https://cedb.me/user/9b3ba1a6-e3b2-4966-a142-1ffa05002f97) (February 2024 - present)
 - [SakumaDrops](https://cedb.me/user/a2032443-ba6a-416a-8ee3-47e8ab918ff8) (February 2024 - present)
 - [Sartoonel](https://cedb.me/user/42376e0e-5ff2-4fb1-bd86-26be52856570) (May 2024 - present)
+- [Fireball](https://cedb.me/user/edb19b67-a4c7-4a51-84d4-97cd25f00d45) (September 2025 - present)
+- [Kanra](https://cedb.me/user/10730cd6-fd4b-485d-ba32-6f8feb80fd40) (September 2025 - present)
+- [Light](https://cedb.me/user/f0dcd33a-8ab3-417a-b317-8dc63943291f) (September 2025 - present)
+
 ### Former moderators
 - [Chebyshevrolet](https://cedb.me/user/0f00b344-3ccf-4941-a974-0f2ddeade40e) (February 2020 - March 2022?)
 - [Shiny](https://cedb.me/user/371b35d4-bec4-4844-b13a-2a4c215fbaa7) (March 2021 - April 2022)

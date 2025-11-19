@@ -3,7 +3,12 @@
 As you would expect with a system that is based around so many subjective things, things aren't always as clean-cut as one might like.
 
 ## Assist/Cheats/DevConsole 
-Many games nowadays include "accessibility" options as well as assist modes, cheat codes, etc. Basically things that make the game easier than what is often viewed as the "normal play experience". We have different rules regarding these options depending on the Tier of the game. For T1 games, we simply value the games assuming they are played "as intended". For T2+ games we simply require video/screenshot proof showing these options weren't used. In cases where these features exist but they have a relatively minor impact on the challenges of the game, then they are assumed to be used to their full extent and are just valued accordingly.
+Many games nowadays include "accessibility" options as well as assist modes, cheat codes, etc. Basically things that make the game easier than what is often viewed as the "normal play experience". We have different rules regarding these options depending on the Tier of the game. 
+
+For T1 games, we simply value the games assuming they are played "as intended". This is the concept of ["Tier 1 Leniency"](/general/details/points#point-quirks) mentioned previously. 
+
+For T2+ games we simply require video/screenshot proof showing these options weren't used. In cases where these features exist but they have a relatively minor impact on the challenges of the game, then they are assumed to be used to their full extent and are just valued accordingly.
+
 
 ## Cheating 
 Separate from in-game cheating. This includes any kind of file manipulation within game folders. Either editing files or copying save files in order to trivialize a challenge. As well as using any programs which can be used to unlock achievements without actually doing them, play a game in slow motion, etc. This is in general disallowed, and if you are found to have done it there may be severe consequences.
@@ -17,7 +22,9 @@ No 'black mark' will be placed on your CE account, and CE staff will advise on t
 :::
 
 ::: danger Active Cheating
-Any user found to be cheating will be << to add >>
+Any user found to be cheating will go through a process of being returned to E-rank and removed from the leaderboards. This may not be permanent if actions are taken to acknowledge and reverse the cheated games via an appeal ticket in our Discord server, but said user will be subject to more scrutiny during an unspecified period of time.
+
+Each user only has a chance to appeal once for active cheating, and if repeated they will be permanently removed from the leaderboards.
 :::
 
 
