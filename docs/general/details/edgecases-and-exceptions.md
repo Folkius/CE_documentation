@@ -16,7 +16,7 @@ Separate from in-game cheating. This includes any kind of file manipulation with
 ::: tip Past Cheating
 CE recognises that users go through many phases in life, and may have cheated achievements (or similar) in the past for a number of reasons.
 
-It is expected that anyone looking to engage with the CE community and website will proactively identify to CE Staff (see: << TICKET SYSTEM >> ) instances where past actions have impacted the integrity of their CE profile (eg: achievements unlocked using external programs).
+It is expected that anyone looking to engage with the CE community and website will proactively identify to CE Staff (see: << TBD - TICKET SYSTEM >> ) instances where past actions have impacted the integrity of their CE profile (eg: achievements unlocked using external programs).
 
 No 'black mark' will be placed on your CE account, and CE staff will advise on the best course of action to bring the user's CE profile back into good standing.
 :::
@@ -41,6 +41,12 @@ There are cases where puzzle games are valued on the site. EX: The Witness, Port
 ## Dev-Intention 
 While being obvious in the majority of cases, in all edge-cases where it isn't clear what is dev intended for the purposes of cheating or determining if something qualifies as a Primary Objective, it is left up to the mods/reps. If the objective doesn't specify, then it is probably allowed. If you aren't sure, then ask.
 
-## PVP challenges 
-Dev intended or not, we do not add dynamic or PvP related challenges to the website. Their variable nature makes them impossible to value, especially in relation to single-player challenges.
+## Dynamic / PvP challenges 
 
+Developer-intended or not, we do not add dynamic or PvP-related challenges to the website. Their variable nature makes them impossible to value, as there is no consistent experience against which to assess the level of challenge / difficulty.
+
+This may arise in the form of:
+
+- Reaching the top "x" ranks, or top "y%" of scores on an in-game leaderboard.
+- Challenges where the developer commits to adjusting the difficulty over time.
+- Defeating someone with a particular rank, or a certain number of opponents, in a PvP setting.

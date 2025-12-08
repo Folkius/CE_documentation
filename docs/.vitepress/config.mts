@@ -19,16 +19,17 @@ export default defineConfig({
         link: 'general/index'
       },
       { text: 'Site Mechanics Overview', link: '/general/mechanics' },
+	  { text: 'Rules and Administration', link: '/general/details/rules-admin' },
       {
         text: 'Details',
         items: [
           { text: 'Points', link: '/general/details/points' },
-		      { text: 'Valuing games; an analogy', link: '/general/details/ce_mountain' },
+		  { text: 'Valuing games (an analogy)', link: '/general/details/ce_mountain' },
           { text: 'Categories', link: '/general/details/categories' },
           { text: 'Objectives', link: '/general/details/objectives' },
           { text: 'Game Additions', link: '/general/details/adding-games' },
           { text: 'Edge-Cases and Exceptions', link: '/general/details/edgecases-and-exceptions' },
-		  { text: '[TBD] Site Titles', link: '/general/details/site-titles' }
+		  { text: 'Site Titles & Roles', link: '/general/details/titles-roles' }
         ]
       },
       {

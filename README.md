@@ -13,7 +13,7 @@ This repository (or rather, the wiki text within) is still a work in progress. E
 Node.js is required.
 - Clone GitHub folder and go inside it;
 - Open a terminal and run ```npm install```;
-- Run ```npm docs:dev``` and it should be done.
+- Run ```npm run docs:dev``` and it should be done.
 
 
 ## Support this repository
