@@ -114,6 +114,6 @@ This may come in the form of:
 - community-set challenges (see: [Neon White community medal times](https://cedb.me/game/23dfa792-591a-4f55-99ae-1c34180b22c8))
 - self-imposed restrictions recognised by the community (see: [A Hat in Time - Death Wish restrictions](https://cedb.me/game/21144d8d-c943-4130-8349-6e768220cfc9)).
 
-In each case, these can be recognised as [Community Objectives](/general/details/objectives#community-objectives), but as they do not fit the DIRE criteria, they will not have [points](/general/details/points) associated with them on the site.
+In each case, these can be recognised as [Community Objectives](/general/details/objectives#community-objectives), but as they do not fit the DIRE criteria, they will not have [points](/general/details/points-tiers) associated with them on the site.
 
 

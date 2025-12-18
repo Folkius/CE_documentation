@@ -5,7 +5,7 @@ As you would expect with a system that is based around so many subjective things
 ## Assist/Cheats/DevConsole 
 Many games nowadays include "accessibility" options as well as assist modes, cheat codes, etc. Basically things that make the game easier than what is often viewed as the "normal play experience". We have different rules regarding these options depending on the Tier of the game. 
 
-For T1 games, we simply value the games assuming they are played "as intended". This is the concept of ["Tier 1 Leniency"](/general/details/points#point-quirks) mentioned previously. 
+For T1 games, we simply value the games assuming they are played "as intended". This is the concept of "Tier 1 Leniency" (link TBD). 
 
 For T2+ games we simply require video/screenshot proof showing these options weren't used. In cases where these features exist but they have a relatively minor impact on the challenges of the game, then they are assumed to be used to their full extent and are just valued accordingly.
 
@@ -50,3 +50,44 @@ This may arise in the form of:
 - Reaching the top "x" ranks, or top "y%" of scores on an in-game leaderboard.
 - Challenges where the developer commits to adjusting the difficulty over time.
 - Defeating someone with a particular rank, or a certain number of opponents, in a PvP setting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Tier 1 leniency
+Every game has up to 15 points that can be used in the context of "T1 Leniency" even if the game itself isn't a T1.
+
+
+### Effort scalars (points per hour, or PPH)
+
+The list is not final - an initial guidance taken from this post:
+
+https://discord.com/channels/639112509445505044/890684724681523291/1217503936328630374
+
+Single large yolos - approx 2.5-3 pph.
+
+Cluster of shorter yolos - approx 1.5-2.5 pph but really depends on a huge number of other factors.
+
+IL speedruns / very high execution - approx 1-1.5 pph.
+
+IL challenges / other - approx 0.5-1.5 pph, but again, really depends on a huge number of other factors.
+
+For the strategy category, take the above multipliers and divide them all by 2 for the same kinds of challenges.
+
+
+These are the scalar baselines that have been used in the past, but they get adjusted by various amounts depending on more information
+These numbers were taken from a really long analysis undertaken on all games cleared by group members about 3-4 years ago.
+Most games fell within a range, and were more confidently within a tighter range based on challenge type.
