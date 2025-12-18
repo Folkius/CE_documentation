@@ -22,7 +22,7 @@ It is from these foundational truths we look to establish the most complete list
 Typically the 'intended' and 'recognised' components of DIRE are less ambiguous, but, for completeness, each component is further detailed below.
 
 -------
-### Developer Intended
+### Intended
 
 Developer-intended covers elements explicitly included in a game. This may come in the form of:
 - Completion of the game itself (where a finite end exists)
@@ -41,7 +41,7 @@ The developer included 85 scenes - completing them all is developer intended.
 The developer has created the game; beating the final boss on the highest difficulty is a developer intention.
 
 -------
-### Developer Recognised
+### Recognised
 
 Developer-recognised elements of a game are those where something is provided to the player for accomplishing a feat.
 
@@ -70,7 +70,7 @@ Achievements exist for three very different, and very difficult, runs.
 
 
 -------
-### Developer Encouraged
+### Encouraged
 The 'encouraged' component of DIRE is arguably the least clear-cut.
 
 **Developer encouragement** may come in the form of:

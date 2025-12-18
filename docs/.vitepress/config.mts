@@ -24,7 +24,8 @@ export default defineConfig({
         text: 'Core Features',
         items: [
 		  { text: 'The DIRE Framework', link: '/general/details/dire' },
-		  { text: 'Points & Tiers', link: '/general/details/points' },
+		  { text: 'Points & Tiers', link: '/general/details/points-tiers' },
+		  { text: 'CE Rating', link: '/general/details/ce-rating' },
           { text: 'Objective Types', link: '/general/details/objectives' },
 		  { text: 'Game Categories', link: '/general/details/categories' }
         ]
@@ -52,7 +53,8 @@ export default defineConfig({
         text: 'Other',
         items: [
         { text: 'Staff - Current/Past', link: 'general/staff' },
-      { text: 'CE Bot Utilities', link: 'general/ce-bots' },
+		{ text: 'CE Bot Utilities', link: 'general/ce-bots' },
+		{ text: 'Helpful Links', link: 'general/details/links' }
         ]
       }
       //{
