@@ -1,0 +1,12 @@
+Changelog - Schmole 20251218
+
+- Home page
+	- Changed to 'wiki' rather than 'documentation'.
+	- Other minor text changes.
+- Vitepress Config
+	- Changed "General" to "Documentation"
+	- Changed "CE Docs" to "CE Wiki"
+	- Changed "About the staff" to "Staff - Current/Present" (as it's less of an 'about us' page, and more a list)
+	
+- Index/introduction page
+	- 

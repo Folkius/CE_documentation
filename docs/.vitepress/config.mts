@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "CE Docs",
+  title: "CE Wiki",
   description: "Documentation about Challenge Enthusiasts.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -10,7 +10,7 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'General', link: '/general/' }
+      { text: 'Documentation', link: '/general/' }
     ],
 
     sidebar: [
@@ -21,21 +21,37 @@ export default defineConfig({
       { text: 'Site Mechanics Overview', link: '/general/mechanics' },
 	  { text: 'Rules and Administration', link: '/general/details/rules-admin' },
       {
-        text: 'Details',
+        text: 'Core Features',
         items: [
-          { text: 'Points', link: '/general/details/points' },
+		  { text: 'The DIRE Framework', link: '/general/details/dire' },
+		  { text: 'Points & Tiers', link: '/general/details/points' },
+          { text: 'Objective Types', link: '/general/details/objectives' },
+		  { text: 'Game Categories', link: '/general/details/categories' }
+        ]
+      },
+	  {
+        text: 'Adding / Valuing Games',
+        items: [
+		  { text: 'Game Additions', link: '/general/details/adding-games' },
 		  { text: 'Valuing games (an analogy)', link: '/general/details/ce_mountain' },
-          { text: 'Categories', link: '/general/details/categories' },
-          { text: 'Objectives', link: '/general/details/objectives' },
-          { text: 'Game Additions', link: '/general/details/adding-games' },
-          { text: 'Edge-Cases and Exceptions', link: '/general/details/edgecases-and-exceptions' },
-		  { text: 'Site Titles & Roles', link: '/general/details/titles-roles' }
+          { text: 'Edge-Cases and Exceptions', link: '/general/details/edgecases-and-exceptions' }
+        ]
+      },
+	  {
+        text: 'Features and Functionality',
+        items: [
+		  { text: 'Site Titles & Roles', link: '/general/details/titles-roles' },
+		  { text: 'Casino', link: '/general/details/casino' },
+		  { text: 'Bounty Hub', link: '/general/details/bounty' },
+		  { text: 'Puzzle Games', link: '/general/details/puzzle-games' },
+		  { text: 'Site Achievements', link: '/general/details/site-achievements' },
+		  { text: 'Clown Town', link: '/general/details/clown-town' }
         ]
       },
       {
-        text: 'Others',
+        text: 'Other',
         items: [
-        { text: 'About the Staff', link: 'general/staff' },
+        { text: 'Staff - Current/Past', link: 'general/staff' },
       { text: 'CE Bot Utilities', link: 'general/ce-bots' },
         ]
       }

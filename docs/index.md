@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Challenge Enthusiasts Documentation"
-  tagline: "Categorizing the most challenging games on Steam and more."
+  name: "Challenge Enthusiasts Wiki"
+  tagline: "Cataloguing and assessing the most challenging games on Steam and more."
   actions:
     - theme: brand
       text: Start reading
@@ -20,13 +20,13 @@ features:
     link: 'https://cedb.me'
   - icon: ⬇️
     title: Join the Community
-    details: Most of our interactions happen in our Discord server.
+    details: The CE Discord server is where most of our community interactions happen.
     link: 'https://discord.gg/challengeenthusiast'
   - icon: 🗒️
     title: Submit proof
-    link: /general/#how-do-i-submit-proof
-  #- title: Feature C
-  #  details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: For objectives that aren't automatically granted through achievements.
+	link: /general/#how-do-i-submit-proof
+
 ---
 <style>
 :root {
