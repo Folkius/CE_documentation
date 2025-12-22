@@ -1,80 +1,89 @@
-# Points
+# Bounty Hub
 
-Points are the main metric used in the site. They are represented by a gray star :star:. They are used for categorizing games into tiers, grouping users into ranks. They are also used as the default leaderboard ordering scheme.
+The Bounty Hub (```#bounty-hub``` on the CE Discord) is a central place for users to interact with bounties placed on CE-related feats.
 
-Points can only be earned from obtaining primary or secondary objectives in games.
+## What are bounties?
 
-Games are given a set amount of points for their overall difficulty, then spread out across primary and secondary objectives.
+Bounties come in five types:
+1. **Potentials** bounties are not currently on the site, and have been identified as being potentially difficult enough to add
+2. **Uncleared** bounties are games that have an objective that has yet to be completed by a CE member
+3. **Low Clear** bounties are games that have been completed by less than 3 people (5 in some cases)
+4. **Retro** bounties are games that are found on RetroAchievements and work differently (See below)
+5. **Unlisted** bounties are games that are not listed on any sheet, and are always worth a static 1 bounty point. (See below)
 
-Points in objectives use a linear ladder in steps of 5. The higher an objective is valued, the higher its difficulty is estimated to be.
+### Where to find the current bounties
 
-::: info NOTE
-Points aren't necessarily a full reflection of the objectives' normal effort - multiple circumstances are taken into account, such as variety of challenges, multiplier penalty applied for T6s and T7s, intensity, amount of objectives done beforehand, content/filler, etc.
-:::
+Potentials, Uncleared, and Low Clear bounties [can be found on this Google sheet document](https://docs.google.com/spreadsheets/d/1NeWYzeRi7NDrm9jvJKZgjrB6LLSjKskD3yNO0SYOVpk/edit?gid=1411221997#gid=1411221997).
 
+Retro bounties [can be found on this Google sheet document](https://docs.google.com/spreadsheets/d/1g_7GlGYtz0l4EV_WfWdhslcfYcUZph2-8G4lbHvF214/edit?gid=645512564#gid=645512564), under the "Potentials" tab.
 
+### Retro and Unlisted bounties
 
-### Point quirks
+Bounties listed under the "Potentials" tab of the Retro sheet may increment in value over time, however any game on the sheet listed as a "-1" or "0" will grant 1 point for confirming (by playing) that it has no PO or SO capable challenges, and moving the status to "-2".
 
-Every game has up to 15 points that can be used in the context of "T1 Leniency" even if the game itself isn't a T1.
+If you add a game to the site and it's not on any list, you may earn 1 bounty point as long as you link to your thread in ```#the-saloon```.
 
-## Evaluating points
-The values on the site, and especially in the case of high-tier clears, are not necessarily supposed to represent a 'correct value'. They are intended to represent an averaged value amongst the clearers at the time, relative to the effort *they* put in, not how hard the game would be to non-clearers.
+## What are Bounty Seasons?
 
-Where a game is only cleared by a single person, the point value will reflect *their* experience with the game. To the extent this person's experience differs materially to subsequent clearers (e.g. due to the presence of new strategies), there might be a large shift in points.
+Bounty seasons are 3 month blocks of time in which the highest earner over the course of the three month period will earn the ```Champion``` (green role) title, a $25 steam gift card, and a key from the key list.
 
-### A hypothetical example:
-A game's first clearer spends 100 hours on a single YOLO run, inclusive of finding new strategies, practice, and attempts. It is evaluated at 300 points.
+Bounty seasons may have unique modifiers that give a different feel to each next season.
 
-Two more players clear the game, with one of them taking 50 hours, and one of them taking 200 hours. Not enough information on the distribution of clearers' efforts has been achieved, so the value is held at 300.
+You can see the current season in this hub by looking for a forum titled "CE Bounty Season" in ```#⁠bounty-hub```.
 
-Five more players clear the game, with each of them taking approximately 50 hours to achieve the same feat. With this information, we infer that the 200 hour clear was an outlier (of CE clears), and the 100 hour clear a longer-than-average clear (possibly impacted by being the first to find strategies etc).
+## What are Bounty Points?
 
-The game is re-valued at 150 points, or half of the original valuation.
+Bounty points are the value assigned to "claiming" a given bounty. These would typically come from the current "CE Bounty Season", but community bounties (/general/details/bounty#community-bounties) can also offer Bounty Points as a reward (pending admin approval).
 
-::: info NOTE
-This hypothetical example is not intended to directly correlate to how the value of games are evaluated, and is for illustration only.
+Within a given season's list of bounty games:
+- Bounty points start at a value of 1, and increase over time
+- Every Saturday, for each category 10 random bounties increase by 1 point, as well as 1 uncleared bounty by 5 points
 
-There will inevitably be a level of nuance and judgement required in valuing games, particularly at higher values. This will vary based on the nature of the challenge.
-:::
+Users' bounty points are [tracked on a leaderboard](https://discord.com/channels/639112509445505044/1191585319179522208/1192474817606193313) within ```#the-mercantile``` on the CE Discord.
 
-### Effort scalars (points per hour, or PPH)
+Bounty points can be spent in [The Mercantile Shop](https://discord.com/channels/639112509445505044/1191585319179522208/1192341595371085874) for Game Keys, Steam Gift Cards, unique roles, Casino related benefits, and other things.
 
-The list is not final - an initial guidance taken from this post:
+In addition, there are a number of [Site Achievements](/general/details/site-achievements) that can be earned through participation in the Bounty Hub. There are various bounty-related achievements, including:
+- Claiming each of the five types of bounties
+- Claiming multiple bounties within a given Season
+- Reaching lifetime-earned Bounty Points thresholds
+- Posting your own bounty (see the relevant section below)
+- Claiming a community bounty
 
-https://discord.com/channels/639112509445505044/890684724681523291/1217503936328630374
+## Participating in bounty hunting
 
-Single large yolos - approx 2.5-3 pph.
+You can chat about general bounty related topics in ```#the-saloon```.
 
-Cluster of shorter yolos - approx 1.5-2.5 pph but really depends on a huge number of other factors.
+You must be ```C Rank``` or higher to claim a bounty and earn points.
 
-IL speedruns / very high execution - approx 1-1.5 pph.
+To claim a **Potentials** bounty:
+- You only need to complete enough of the challenges in the game that would be worth at least 5 points so that the game may be added to the site, however, you MUST detail all possible challenges in the game, including those you did not do. When this happens, the game begins to *Retire*.
+   - A *Retiring* bounty is one that has been claimed, and will be removed from the bounty lists one month from when it was claimed. Anyone who would claim the bounty in that time are awarded half the value of the bounty.
+- You may also claim a **Potentials** bounty by confirming that the game has no PO or SO capable challenges, or determining that it is too easy to add to the site.
 
-IL challenges / other - approx 0.5-1.5 pph, but again, really depends on a huge number of other factors.
+To claim an **Uncleared** bounty:
+- You need to complete one of the objectives for the game that are listed as "UNCLEARED", once this happens, if there are any remaining "UNCLEARED" objectives for the game, the value of the Uncleared bounty is reset to 5, otherwise the bounty retires immediately.
 
-For the strategy category, take the above multipliers and divide them all by 2 for the same kinds of challenges.
+To claim a **Low-Clear** bounty:
+- You must complete all POs for the game.
 
+If you are claiming a bounty, make a recommendation thread as though you were normally recommending a game be [added to the site](/general/details/adding-games) and simply link your recommendation thread in either the current season's thread, or in ```#the-saloon```.
 
-These are the scalar baselines that have been used in the past, but they get adjusted by various amounts depending on more information
-These numbers were taken from a really long analysis undertaken on all games cleared by group members about 3-4 years ago.
-Most games fell within a range, and were more confidently within a tighter range based on challenge type.
+## Community bounties
 
+Beyond the CE-hosted bounty activity through Seasons, users with at least ```C Rank``` are able to post their own bounties within the Bounty Hub (in ```#bounty-hub```).
 
-## CE Rating (CR)
-This is a leaderboard-specific weighted point system, prioritizing the quality of the clear over the quantity of clears. 
+Bounties could be posted for:
+- Completing an UNCLEARED objective
+- Scouting out potential games
+- Streaming a successful run of an already-completed games
+- Developing a comprehensive guide for a CE game
+- Most anything else, as long as it relates to CE
 
-The formula for CR works as follows: 
+These bounties could be set with rewards in the form of:
+- Monetary rewards
+- Bounty points (requires approval from Jarvis)
+- Cute pics of your pet
+- Other rewards as you see fit (but please keep it PG13...)
 
-```Σ(0, n): (0.9^n)(m)``` 
-
-where **n** is the ordering of your games by value (your highest game is considered the 0th highest, and no penalty is applied), and **m** is the value of the game. 
-
-::: info Example
- Assuming you have cleared The End is Nigh, Super Meat Boy, and obtained all achievements in Never Give Up except for the permadeath run, your games would be ordered as 350, 80, 30. The formula would then apply in the following manner: 
- 
- (0.9^0)(350) + (0.9^1)(80) + (0.9^2)(30) = 350 + 72 + 24.3 = **456.3 CR**
-
-(these values may not be up to date over time, but the logic remains)
- :::
-
-CR is calculated separately for each category. Your first person games do not affect the calculation for platformers, for example. Your overall CR is the combined total of the CR for all 6 categories. The maximum amount a game can contribute to CR is 1000, and any game worth more than 1000 points will be assumed to be worth 1000 points for the rating.
+Past bounties have included scouting out Sega Genesis potentials, for completing Deathless Dungeon (a 1.5h YOLO), Speedrun bounties in Celaria, traditional Rogue-likes (ADOM, and Rogue).

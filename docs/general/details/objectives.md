@@ -24,7 +24,7 @@ Examples include:
 Objectives in games tend to be ordered top-to-bottom, with the intended progression meant to be starting from the bottom and climbing up.
 In some rare cases, objectives may be grouped according to modes, but the objectives inside these modes will be sorted as previously described.
 
-## Secondary Objectives :new:
+## Secondary Objectives
 Also known as SOs. *Currently labeled with *(S)* at the end of the objective's name.*
 
 Anything that can be argued to fall within **DIRE** that is not immediately obvious or may be ambiguous to most players, or unambiguous but highly indirect forms of gameplay progression.

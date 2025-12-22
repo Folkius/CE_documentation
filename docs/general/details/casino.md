@@ -17,9 +17,9 @@ A list of the available solo rolls, their criteria, the casino score bonuses/cos
 ## Solo rolls - Time-limited
 
 ::: info COOLDOWNS
-For timed rolls, the listed cooldown only comes into effect if a roll is not completed within the listed timeframe.  
+For timed rolls, the listed cooldown only comes into effect if a roll is not completed within the roll's timeframe.
 
-Should a given roll be completed, a user can choose to roll again immediately if desired.
+Should a given roll be completed successfully, a user can choose to roll again immediately if desired.
 :::
 
 ### One Hell of a Day
@@ -248,7 +248,7 @@ You may have up to 5 concurrent Destiny Alignment rolls, with different partners
 
 ## Accessing Casino rolls
 
-The [CE Assistant Bot](general/ce-bots.html#casino-rolls) is the way to access these Casino rolls, within the ```#casino``` channel of the CE Discord.
+The [CE Assistant Bot](/general/ce-bots.html#casino-rolls) is the way to access these Casino rolls, within the ```#casino``` channel of the CE Discord.
 
 Using the ```/solo-roll``` command, a user can select from any of the below-listed solo rolls.
 

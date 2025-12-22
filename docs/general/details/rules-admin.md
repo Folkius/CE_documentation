@@ -76,6 +76,8 @@ Further to these guidelines, the below points are to be followed when utilising 
     {6.2} Regular/ongoing messages with negative sentiment directed towards one's self are not allowed. Whilst people are generally happy to offer support insofar as possible, the server is not a place for seeking professional self-help advice.
 	
     {6.3} Messages suggesting suicidal ideation, whether intended only as a joke or otherwise, are not permitted.
+	
+	{6.4} Arguments over things related to CE are going to be fine if kept civil, but if things start getting heated or the conversation relates to a divisive non-gaming topic, we will ask people to take it elsewhere or find another format for discussion
 
 7) The CE Discord is an English language server, so you're encouraged to communicate in English within the server.  
 Messages in other languages aren't prohibited, but sustained conversation in a language other than English is not allowed; all members should be able to follow conversation.  
