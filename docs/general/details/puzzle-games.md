@@ -1,6 +1,6 @@
 # Puzzle Games
 
-Puzzle games by their very nature of being static and wholly guideable are not suited for being on the site; every user's ability to open a guide and successfully complete the game does not represent a 'challenge', and therefore cannot be recognised with [points](/general/details/points).
+Puzzle games by their very nature of being static and wholly guideable are not suited for being on the site; every user's ability to open a guide and successfully complete the game does not represent a 'challenge', and therefore cannot be recognised with [points](/general/details/points-tiers).
 
 CE does, however, recognise that engaging with puzzle games the way they were designed (that is, without using a guide) can be an exceptionally challenging experience. As such, we wanted to ensure there a way to recognise these games on the site.
 
