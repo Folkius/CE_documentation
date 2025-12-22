@@ -78,7 +78,7 @@ Site examples include: [Slay the Spire](https://cedb.me/game/f5002235-3248-453d-
 
 ### How do you decide where each game is categorised?
 
-The category a game will be allocated to is typically intuitive enough, but sometimes it's not.
+The category a game will be allocated to is typically intuitive enough, but there are some games where that is not the case.
 
 While it doesn't cover all possible bases, when a game's category is not immediately clear, the following flowchart can be used to assist in determining a game's category placement.
 
