@@ -45,8 +45,7 @@ export default defineConfig({
 		  { text: 'Casino', link: '/general/details/casino' },
 		  { text: 'Bounty Hub', link: '/general/details/bounty' },
 		  { text: 'Puzzle Games', link: '/general/details/puzzle-games' },
-		  { text: 'Site Achievements', link: '/general/details/site-achievements' },
-		  { text: 'Clown Town', link: '/general/details/clown-town' }
+		  { text: 'Site Achievements', link: '/general/details/site-achievements' }
         ]
       },
       {
