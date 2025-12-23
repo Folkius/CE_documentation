@@ -17,7 +17,7 @@ See the "[CE Mountain Analogy](/general/details/ce_mountain)" for additional det
 Points in objectives use a linear ladder in steps of 5. The higher an objective is valued, the higher its difficulty is estimated to be.
 
 ::: tip NOTE
-The points allocated to an objective aren't necessarily a 1:1 reflection of the effort required to complete the objectives - multiple circumstances are taken into account, such as the variety and/or nature of challenges, multiplier penalty applied for T6s and T7s, intensity, amount of objectives done beforehand, content/filler, etc.
+The points allocated to an objective aren't necessarily a 1:1 reflection of the effort required to complete the objectives - multiple circumstances are taken into account, such as the variety and/or nature of challenges, multiplier penalty applied for T6s and T7s, intensity, amount of objectives done beforehand, whether there is a substantial amount of non-challenging content, etc.
 :::
 
 The values of games on the site, and especially in the case of high-tier games, are not necessarily supposed to represent a 'correct value'. Indeed, this is not possible, as each person will experience a challenge differently.

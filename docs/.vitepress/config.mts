@@ -15,11 +15,15 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Index',
-        link: 'general/index'
+		text: 'The Basics',
+		items: [
+		  { text: 'Introduction', link: '/general/index' },
+		  { text: 'Using the CE website', link: '/general/the-basics' },
+		  { text: 'Creating a profile', link: '/general/creating-profile' },
+		  { text: 'How do I submit proof?', link: '/general/submitting-proof' },
+		  { text: 'Rules and Administration', link: '/general/details/rules-admin' }
+		]
       },
-      { text: 'Site Mechanics Overview', link: '/general/mechanics' },
-	  { text: 'Rules and Administration', link: '/general/details/rules-admin' },
       {
         text: 'Core Features',
         items: [
