@@ -41,11 +41,11 @@ export default defineConfig({
 	  {
         text: 'Features and Functionality',
         items: [
-		  { text: 'Site Titles & Roles', link: '/general/details/titles-roles' },
 		  { text: 'Casino', link: '/general/details/casino' },
 		  { text: 'Bounty Hub', link: '/general/details/bounty' },
 		  { text: 'Puzzle Games', link: '/general/details/puzzle-games' },
-		  { text: 'Site Achievements', link: '/general/details/site-achievements' }
+		  { text: 'Site Achievements', link: '/general/details/site-achievements' },
+		  { text: 'Site Titles & Roles', link: '/general/details/titles-roles' }
         ]
       },
       {
@@ -53,6 +53,7 @@ export default defineConfig({
         items: [
         { text: 'Staff - Current/Past', link: 'general/staff' },
 		{ text: 'CE Bot Utilities', link: 'general/ce-bots' },
+		{ text: 'Contacting Mods/Admins', link: 'general/ticketing' },
 		{ text: 'Helpful Links', link: 'general/details/links' }
         ]
       }
