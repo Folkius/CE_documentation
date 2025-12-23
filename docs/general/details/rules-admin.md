@@ -1,6 +1,6 @@
 # Rules and Administration
 
-This page sets out the rules for the use of both the CE Website (TBD - link) and CE Discord server (TBD - link), as well as the principles governing these rules.
+This page sets out the rules for the use of both the CE Website and CE Discord server, as well as the principles governing these rules.
 
 [[toc]]
 
@@ -8,15 +8,15 @@ This page sets out the rules for the use of both the CE Website (TBD - link) and
   
 # CE Website
 
-The use of the CE Website (TBD - link) is predicated on adherence to the rules as set out below.
+The use of the CE Website is predicated on adherence to the rules as set out below.
 
 ## Rules - CE Website
 
-1. Objectives (TBD - link to the objectives page) registered with the CE Website on a user's profile need to have been legitimately obtained (i.e. not earned through use of cheats, external programs, through another user playing on your account, etc).  
+1. [Objectives](/general/details/objectives) registered with the CE Website on a user's profile need to have been legitimately obtained (i.e. not earned through use of cheats, external programs, through another user playing on your account, etc).  
 
-   {1.1} Should objectives have been earned on the CE Website arising from previous instances of cheating (or similar), continued use of the CE Website is permitted only if a TICKET (TBD - LINK) is raised with the Moderation team, identifying impacted games/objectives. The Moderation team will look to work with you to rectify your CE profile.  
+   {1.1} Should objectives have been earned on the CE Website arising from previous instances of cheating (or similar), continued use of the CE Website is permitted only if a [ticket](/general/ticketing) is raised with the Moderation team, identifying impacted games/objectives. The Moderation team will look to work with you to rectify your CE profile.  
    
-   {1.2} Where this process is not followed, if your account is identified as having obtained objectives illegitimately, your profile will be flagged as Removed (TBD - intra-link to the below section), and you will not appear on any leaderboard.
+   {1.2} Where this process is not followed, if your account is identified as having obtained objectives illegitimately, your profile will be flagged as [Removed](/general/details/rules-admin#leaderboard-removal), and you will not appear on any leaderboard.
 
 2. A user's username and display picture cannot contain offensive, NSFW, derogatory or defamatory content.
    Your CE user page name and avatar are based on those present on Steam as at the time of last profile synchronisation.
@@ -31,17 +31,17 @@ Profiles with this flag applied will not appear on leaderboards, and their indiv
 
 The CE team recognise that users may choose to interact with challenge-focused gaming with different motivations.
 
-For those that wish to continue utilising the CE Website, but do not wish to have their profile appear on leaderboards, they may apply through the Moderation team (see: Raising a ticket (TBD LINK)) to have their profile marked with the ```Excluded``` flag.
+For those that wish to continue utilising the CE Website, but do not wish to have their profile appear on leaderboards, they may apply through the Moderation team (see: [Raising a ticket](/general/ticketing)) to have their profile marked with the ```Excluded``` flag.
 
 The process to have this flag applied is involved, and should be considered a permanent change to one's profile.
 
-Profiles with this flag applied will not appear on leaderboards, and their individual game completions will not appear on game pages. (TBD - DISCUSSION RE THE GAME COMPLETION PAGE)
+Profiles with this flag applied will not appear on leaderboards, and their individual game completions will not appear on game pages.
 
 ----
 
 # CE Discord
 
-The use of the CE Discord (TBD - permanent link) is predicated on good faith engagement with other community members, and adherence to the rules as set out below.
+The use of the CE Discord is predicated on good faith engagement with other community members, and adherence to the rules as set out below.
 
 Throughout the sections below we use ```'the community'``` to refer to those interacting with CE through the Discord server (```CE Discord``` or ```the server```).
 
@@ -62,7 +62,7 @@ We are a challenge seeking community, and actively aiming to circumvent the legi
 5) Be honest and transparent in regards to your own gaming accomplishments.  
 This includes transparency of when 'cheese' is used in a game, where Steam-reported (or other platform-reported) play time is not accurate, where external help may have been enlisted, or where accomplishments have been obtained through illegitimate means.
 	
-	{5.1} A user's activity prior to joining CE, including the use of SAM or other cheating software, does not exclude a user's ability to engage with the community, subject to their adhering to ```Rule (TBD)``` in the CE Website section above.  
+	{5.1} A user's activity prior to joining CE, including the use of SAM or other cheating software, does not exclude a user's ability to engage with the community, subject to their adhering to ```Rule 1``` in the CE Website section above.  
 	The use of cheating software, or other means of illegitimately obtaining objectives on CE, while being part of this community is not accepted, and will result in a ban from the leaderboards.
 	
     {5.2} If you notice suspicious activity, do not call out or attack the user in question publicly.  
@@ -112,4 +112,4 @@ Separate to the rules that apply to the use of the CE Discord server, as set out
 
 4. A user's historical actions do not inherently predicate future actions of a similar nature.
    Subject to the above guiding principles and rules being maintained, there should always be an avenue to reconciliation and reinstatement into the community.  
-   Banned users seeking reinstatement should (TBD -- CONTACT METHOD HERE).
+   Banned users seeking reinstatement should DM one of the admins.

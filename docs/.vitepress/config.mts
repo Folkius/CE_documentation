@@ -39,8 +39,8 @@ export default defineConfig({
         text: 'Adding / Valuing Games',
         items: [
 		  { text: 'Game Additions', link: '/general/details/adding-games' },
-		  { text: 'Valuing games (an analogy)', link: '/general/details/ce_mountain' },
-          { text: 'Edge-Cases and Exceptions', link: '/general/details/edgecases-and-exceptions' }
+		  { text: 'Valuing Games (an analogy)', link: '/general/details/ce_mountain' },
+          { text: 'Other Considerations', link: '/general/details/other-considerations' }
         ]
       },
 	  {

@@ -1,12 +1,17 @@
 # Site titles
 
-(TBD) (MORE)
-You can earn titles that will appear on your profile (implementation TBD, @Folkius).
-These titles are also awarded as roles to a user's Discord profile on the CE server.
+Users registered on the site are eligible to earn titles that will appear on your profile.
+A number of these titles are also awarded as roles to a user's Discord profile on the CE server.
+
+::: warning IMPLEMENTATION
+As at the time of this page's writing, titles are not yet implemented on the site.
+
+This functionality is expected at a future point in time.
+:::
 
 The colour of the title (CE profile) or role (Discord server) are listed against each role.
 
-There are X (TBD) broad categories that a title can originate from, which are set out in the sections below.
+There are a number of broad categories that a title can originate from, which are set out in the sections below.
 
 [[toc]]
 
@@ -66,7 +71,20 @@ Once awarded, these titles cannot be lost.
 For example, if a game has a new PO added and moves from Tier 3 to Tier 4, 'T3 Enthusiast' would not be lost.
 :::
 
-(TBD) - Explanation on how points earned from SOs fit in here.
+### Secondary Objectives
+
+For the enthusiast roles, <u>all POs must be completed</u> for a game to be considered completed. This includes games that may have [Secondary Objectives](/general/details/objectives).
+
+For games with SOs, if earning an SO (after having all POs earned) pushes the total earned points in a game above a certain tier, the game will count for that higher tier for the purposes of the enthusiast roles.
+
+::: info FOR EXAMPLE
+- [Hollow Knight](https://cedb.me/game/ec1f8e58-b184-496c-a9aa-678876d9dc7b) has one SO worth 150, and POs worth 150.  
+   Completing all POs (only) will mean the game contributes to the Tier 4 enthusiast role.  
+   Completing the SO will mean the game contributes to the Tier 5 enthusiast role.
+- [Garbanzo Quest](https://cedb.me/game/76ee4be2-007a-4df5-a452-a4fb040553e1) has one PO (10), and two SOs (20, 235).  
+   Completing the PO and one SO will mean the game counts as a Tier 2, contributing to that enthusiast role.  
+   Completing the PO and both SOs will mean the game counts as a Tier 5, contributing to that enthusiast role.  
+:::
 
 
 ## Category-specific
@@ -286,7 +304,7 @@ The following titles / roles relate to the completion of multiple games under a 
 | Quality Chaser | Obtain the site achievements "Word From the Wise", "Follow the Masses", and "Free Advertising" | Green |
 | Steam Roller | Complete all primary objectives in 100 separate games on Steam | Blue |
 | Time Traveller | Complete all primary objectives in 100 separate 'Retro' games | Blue |
-| Omnipresent | Complete at least one game from each console and platform (see: (TBD - link to all eligible consoles)) | Black |
+| Omnipresent | Complete at least one game from each console and platform (see: [Retro Potentials Sheet](https://docs.google.com/spreadsheets/d/1g_7GlGYtz0l4EV_WfWdhslcfYcUZph2-8G4lbHvF214/edit?usp=sharing)) | Black |
 
 
 
@@ -321,7 +339,7 @@ These titles / ranks relate to interaction with the ```#bounty-hub``` / ```#the-
 | Six Shooter | Obtain the site achievement "Six Shooter" | Blue |
 
 Beyond the interaction with the Bounty Hub, located within the Discord server, awards are also given to the first (CE, or global) clears of high tier games.
-See the ```[Hall of Fame](LINK TBD)``` spreadsheet for further information.
+See the [Hall of Fame tab](https://docs.google.com/spreadsheets/d/1NeWYzeRi7NDrm9jvJKZgjrB6LLSjKskD3yNO0SYOVpk/edit?gid=1411221997#gid=1411221997) for further information.
 
 | Title / Role | Requirement | Colour |
 | :----------- | :---- | :---- |

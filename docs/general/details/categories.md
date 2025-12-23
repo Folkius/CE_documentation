@@ -92,4 +92,4 @@ They are ordered alphabetically. Nothing deeper behind it than that.
 
 Ultimately, the six categories aim to group games with similar characteristics. There have been proponents to the separation of particular sub-categories (eg: rhythm within Arcade), but equally there is beauty in conciseness.
 
-The genre (LINK TBD) listings against games aims to assist in identifying core gameplay characteristics that a user may be seeking, with more granularity than that of the category level.
+The [genre](/general/details/tags) listings against games aims to assist in identifying core gameplay characteristics that a user may be seeking, with more granularity than that of the category level.
