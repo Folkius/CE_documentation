@@ -27,7 +27,8 @@ export default defineConfig({
 		  { text: 'Points & Tiers', link: '/general/details/points-tiers' },
 		  { text: 'CE Rating', link: '/general/details/ce-rating' },
           { text: 'Objective Types', link: '/general/details/objectives' },
-		  { text: 'Game Categories', link: '/general/details/categories' }
+		  { text: 'Game Categories', link: '/general/details/categories' },
+		  { text: 'Game Tags', link: '/general/details/tags' }
         ]
       },
 	  {
