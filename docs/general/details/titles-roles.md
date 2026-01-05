@@ -30,10 +30,13 @@ These titles / roles are awarded based on total points earned.
 | SS Rank | 5,000+ total points | Yellow |
 | SSS Rank | 7,500+ total points | Red |
 | EX Rank | 10,000+ total points | Black |
-| EX+ Rank | See [Special Titles](#special-titles-roles) | White |
 
 ::: tip Title / Role retention
 These titles/ranks will be determined based on current point totals. Should a game change in value and a user's earned points reduce, the user will 'drop down' a rank (with an accompanying title/role change).
+:::
+
+::: warning Rank+ titles
+In addition to the total points-based ranks above, there are [Rank+ titles/roles](#rank-1) which can be earned by engaging with a wide range of aspects available on CE. See the relevant section (linked above) for further details.
 :::
 
 ## Leaderboard ranking
@@ -375,24 +378,26 @@ These titles / ranks relate to interaction with the CE community, or to Communit
 | Overachiever | Complete 10 Community Objectives from at least 5 different games | Green |
 | Overachiever | Complete 30 Community Objectives from at least 15 games _AND_ obtain 5 green roles (other than Overachiever) | Black |
 
-## Special titles / roles
+## Complex titles / roles
 
-### EX+
+### Rank+
 
-EX+ is awarded to users who have reached a high total number of points (EX Rank), and also significantly engaged with all aspects of CE.
+In addition to the total points-based ranks above (see: [the Rank section](#rank) above), "Rank+" titles/roles are available for those that engage with a wide range of aspects available on CE.
 
-The requirements, all of which relate to titles / roles, are as listed below:
+The Discord roles have a gradient effect attached to them; show off to your friends!  
+As with rank/colour roles on the Discord, if you prefer the a lower-tier "Rank+" colour than the one you have unlocked, you may request to have your preferred gradient colour shown instead of your highest.
 
-| ALL of: | ONE of: | ONE of: | ONE of: |
-| :----------- | :----------- | :----------- | :----------- |
-| EX Rank | T4 Enthusiast | Grandmaster of All | Frontier Seeker |
-| Master of All | T5 Enthusiast | Challenge Enthusiast | Overachiever (Black) |
-| Omnipotent (Red) | | Omnipotent (Black) | Pit Boss |
-| | | High Roller (Green) _AND_ Overachiever (Green) _AND_ Bounty Hunter (Blue) |
+The requirements for these titles are set out below; each new tier's requirements build on previous. For completeness, the full cumulative requirements for a given rank are listed out.
 
-All of the criteria of the first column must be met, as well as (at least) one of the criteria in each column.
-
-
+| Title / Role | Requirements |
+| :----------- | :---- |
+| C+ | • C Rank<br>• <u>5 point</u> game completed in every category |
+| B+ | • B Rank<br>• <u>5 point</u> game completed in every category<br>• 25 points in every category<br>• At least 1 T3 (or higher) game completed in any category<br>• 3 COs that are not site achievements |
+| A+ | • A Rank<br>• <u>5 point</u> game completed in every category<br>• 50 points in every category<br>• At least 1 T4 (or higher) game completed in any category<br>• 5 COs that are not site achievements<br>• 5 site achievements |
+| S+ | • S Rank<br>• <u>5 point</u> game completed in every category<br>• 100 points in every category<br>• At least 1 T5 (or higher) game completed in any category<br>• 10 COs that are not site achievements<br>• 10 site achievements<br>• At least one objective earned from games of 10 separate genres (each game counts for only one of its genres) |
+| SS+ | • SS Rank<br>• <u>5 point</u> game completed in every category<br>• 250 points in every category<br>• At least 1 T5 (or higher) game completed in <u>at least two different categories</u> (min. 2 T5s+)<br>• 15 COs that are not site achievements<br>• 20 site achievements<br>• At least one objective earned from games of 20 separate genres (each game counts for only one of its genres)<br>• Either 25 Bounty Points or 25 Casino Score |
+| SSS+ | • SSS Rank<br>• <u>5 point</u> game completed in every category<br>• 500 points in every category<br>• At least 1 T5 (or higher) game completed in <u>at least three different categories</u> (min. 3 T5s+)<br>• 20 COs that are not site achievements<br>• 30 site achievements<br>• At least one objective earned from games of 30 separate genres (each game counts for only one of its genres)<br>• Either 50 Bounty Points or 50 Casino Score |
+| EX+ | • EX Rank<br>• <u>5 point</u> game completed in every category<br>• 500 points in every category<br>• At least 1 T5 (or higher) game completed in <u>at least three different categories</u> (min. 3 T5s+)<br>• At least 1 T4 or higher game in every category<br>• T4 Enthusiast OR T5 Enthusiast<br>• [Challenge Enthusiast](#tier-specific) OR [(Black) Omnipotent or Grandmaster of All](#category-specific)<br>• 25 COs that are not site achievements<br>• 35 site achievements<br>• At least one objective earned from games of 40 separate genres (each game counts for only one of its genres)<br>• Either 75 Bounty Points or 75 Casino Score, or 50 in both|
 
 ### Sage of the Six Paths
 
