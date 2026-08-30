@@ -10,11 +10,28 @@ CE organizes all games on the site into six distinct groups, which we call categ
 Categories exist to help people more easily find games that they might enjoy playing more, as well as keeping relatively similar skillsets contained within a similar set of games.
 
 ## Action ![Action](/categories/cat_action.png){width=41px height=41px}
-Action refers to games in which combat is the primary focus and where engagement with enemies defines the difficulty.
+Action refers to games in which:
+1. Combat is the <u>primary focus</u> of the game, **AND**
+2. The player's <u>active engagement</u> with enemies *through that combat* defines the difficulty.
 
-Commonly associated genres include: Soulslikes, Beat 'em Ups, Traditional Fighting Games, and Action Adventure games.
+Combat in this context is defined by having multi-faceted ways to interact with enemies' attacks, and dealing damage to them in return.  
+This may be in the form of different attack styles (light/heavy attacks, weapons, magic, special attacks etc), parrying and/or dodging mechanics, an ability to hide behind cover or engage in stealth attacks, but is not strictly limited to these elements.
 
-Site examples include [Dark Souls](https://cedb.me/game/ac228995-b1eb-4a4f-bec5-d58cd2ee776f), [Hades](https://cedb.me/game/847d86f5-65c6-4f68-b5a7-ed0c8de895f4), [Cuphead](https://cedb.me/game/7632d9d3-8d02-4af6-932c-0d7b59842e48)
+It is important to note that the following do not constitute Action attributes, of themselves:
+- The existence of enemies in a game that can be killed/damaged. For example:
+  - Shoot 'em Up games - Destroying enemies is a standard gameplay mechanic of these games. Whilst there are multiple ways to engage with enemies (shooting/bombing, focused attacks etc), these games are explicitly categorised as Bullet Hell.
+  - [Spelunky 2](https://cedb.me/game/3f2fc86a-dd04-4d7d-bd38-21522ce7865f) - This game is characterised by navigating through a hazardous environment, where the enemies act as dynamic obstacles to that navigation. Whilst combat as a primary focus does exist at points (bosses, Sun Challenge), it is not the primary focus of the game as a whole.
+  - Games where optimal play doesn't have a lot of combat depth.  
+  E.g. [Pizza Tower](https://cedb.me/game/50d89c40-3346-4ec2-a83e-6417c8630b72)'s P ranks requires combo maintenance, and barging through enemies to maintain that combo - the enemies act as a target to reach and break, rather than enemies with whom combat is engaged (i.e. navigating an environment)
+- The existence of bosses, or a 'boss rush' mode.
+  - If engaging with a boss is primarily characterised as platforming  
+  (see: [I Wanna Be The Cat](https://cedb.me/game/d7a3d2ca-c07f-4aca-b3c2-dac8736795ce) - platforming/avoidance-based boss design),  
+  rather than the difficulty being from engaging in combat with the boss(es)  
+  (see: [Sekiro™: Shadows Die Twice](https://cedb.me/game/25667c9b-98bb-4e42-826d-d97d3a2c74ea)), then this would not fall under the Action category.
+
+Commonly associated genres for the Action category include: Soulslikes, Beat 'em Ups, Traditional Fighting Games, and Action Adventure games.
+
+Site examples include: [Dark Souls](https://cedb.me/game/ac228995-b1eb-4a4f-bec5-d58cd2ee776f), [Hades](https://cedb.me/game/847d86f5-65c6-4f68-b5a7-ed0c8de895f4), [Cuphead](https://cedb.me/game/7632d9d3-8d02-4af6-932c-0d7b59842e48).
 
 ## Arcade ![Arcade](/categories/cat_arcade.png){width=41px height=41px}
 Arcade refers to a collection of loosely related sub-categories which we refer to as "R6" which stands for:
@@ -27,7 +44,10 @@ Arcade refers to a collection of loosely related sub-categories which we refer t
 
 Arcade was originally used as a kind of dumping ground for anything that couldn't easily be put into the other categories, but more quickly became identified with rhythm and games where reflex and scoring are what defines the difficulty.
 
-Arcade in a CE context does not mean anything that was found on an arcade cabinet, or more traditionally associated with arcade games like Shoot 'em Ups.
+Additional points of clarification:
+- A game where a player's character is awkward to control, and that is a defining feature of the game, does not immediately meet the R6 criteria for Arcade categorisation above.
+  - If impacted by gravity, these games with awkward controls will fall to [Platformer](#platformer).
+- Arcade in a CE context does not mean anything that was found on an arcade cabinet, or more traditionally associated with arcade games (eg: Shoot 'em Ups).
 
 ## Bullet Hell ![BH](/categories/cat_bh.png){width=41px height=41px}
 Bullet Hell includes any game that can be defined as a Shoot 'em Up, as well as any game where the primary element of gameplay is dodging an unmanageably large amount of on screen hazards.

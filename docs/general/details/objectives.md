@@ -67,6 +67,21 @@ The following examples of developer encouragement are eligible as a basis for in
   - [Kururin Squash!](https://cedb.me/game/9b209163-a21a-462d-875e-f3cdd97dbe8e)'s Super Guide times are viewable in a movie theatre, separate to the levels. They are not presented as a time to beat, but rather, an example of how to move quickly through a level. Whilst consistently presented, the context in which it is presented means dev encouragement to beat the time is not deemed to be present, and <u>is not</u> eligible for an SO.
   - In addition to the above examples, developer's best times (or fewest deaths, high score etc) presented in the credits of a game are deemed to be 'encouragement' to beat the time/deaths/score. As they are presented consistently, beating these is considered <u>eligible</u> for an SO.
 
+### Reaching the end of developer-designed content
+
+Driven by substantial discussion arising from the [Trials series](https://cedb.me/game/b94450d9-99a1-4139-abca-8cbb86493535)' skill games, it was agreed that <u>reaching the end of available developer-designed content</u> is considered 'developer encouragement', and is eligible to be included as an SO (if not already recognised by criteria that would make an objective a PO).
+
+Important definitions for this SO consideration:
+- <b>Developer-designed content</b> in this context is defined as being hand-designed by the developers, and not algorithmically-, randomly- or procedurally-generated content.
+- '<b>The end of</b>' is defined as:
+  - a defined point of completion where user input is no longer accepted (e.g. a finish line or level-end trigger)
+  - a kill screen that can, unambiguously, not be proceeded beyond at the end of developer-designed content (e.g. a wall of impassable explosives)
+
+Points of ambiguity that cannot be automatically-accepted as an SO:
+- If there is a a point where the level's design acts as a 'forced kill screen' through increasingly challenging developer-designed obstacles that eventually become physically impossible to overcome within the game.
+  - Given the ambiguity of where a defined "kill screen" threshold might be, these circumstances would require case-by-case consideration as to SO eligibility.
+
+
 ### Modifiers
 The term 'run' is used below, and in this context it refers to any discrete gameplay loop entered into from a default starting point. Example situations, all referred to as a 'run' here, include:
 - starting a 'new game' in a game where there is a continuous story that cannot be selected by 'chapter',
