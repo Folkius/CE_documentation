@@ -17,6 +17,12 @@ Action refers to games in which:
 Combat in this context is defined by having multi-faceted ways to interact with enemies' attacks, and dealing damage to them in return.  
 This may be in the form of different attack styles (light/heavy attacks, weapons, magic, special attacks etc), parrying and/or dodging mechanics, an ability to hide behind cover or engage in stealth attacks, but is not strictly limited to these elements.
 
+Commonly associated genres for the Action category include: Soulslikes, Beat 'em Ups, Traditional Fighting Games, and Action Adventure games.
+
+Site examples include: [Dark Souls](https://cedb.me/game/ac228995-b1eb-4a4f-bec5-d58cd2ee776f), [Hades](https://cedb.me/game/847d86f5-65c6-4f68-b5a7-ed0c8de895f4), [Cuphead](https://cedb.me/game/7632d9d3-8d02-4af6-932c-0d7b59842e48).
+
+### Additional clarification
+
 It is important to note that the following do not constitute Action attributes, of themselves:
 - The existence of enemies in a game that can be killed/damaged. For example:
   - Shoot 'em Up games - Destroying enemies is a standard gameplay mechanic of these games. Whilst there are multiple ways to engage with enemies (shooting/bombing, focused attacks etc), these games are explicitly categorised as Bullet Hell.
@@ -28,10 +34,6 @@ It is important to note that the following do not constitute Action attributes, 
   (see: [I Wanna Be The Cat](https://cedb.me/game/d7a3d2ca-c07f-4aca-b3c2-dac8736795ce) - platforming/avoidance-based boss design),  
   rather than the difficulty being from engaging in combat with the boss(es)  
   (see: [Sekiro™: Shadows Die Twice](https://cedb.me/game/25667c9b-98bb-4e42-826d-d97d3a2c74ea)), then this would not fall under the Action category.
-
-Commonly associated genres for the Action category include: Soulslikes, Beat 'em Ups, Traditional Fighting Games, and Action Adventure games.
-
-Site examples include: [Dark Souls](https://cedb.me/game/ac228995-b1eb-4a4f-bec5-d58cd2ee776f), [Hades](https://cedb.me/game/847d86f5-65c6-4f68-b5a7-ed0c8de895f4), [Cuphead](https://cedb.me/game/7632d9d3-8d02-4af6-932c-0d7b59842e48).
 
 ## Arcade ![Arcade](/categories/cat_arcade.png){width=41px height=41px}
 Arcade refers to a collection of loosely related sub-categories which we refer to as "R6" which stands for:
